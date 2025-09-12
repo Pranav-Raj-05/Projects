@@ -1,0 +1,4000 @@
+INS	treats	Tamoxifen
+VEGFA	binds	APP
+Paracetamol	treats	EGFR protein
+Insulin receptor	treats	VEGF receptor
+CYP2C9	interacts	Albumin
+Ibuprofen	treats	VEGF receptor
+Hydroxychloroquine	treats	EGFR
+EGFR	treats	INS
+Dexamethasone	associates	Cisplatin
+Ibuprofen	associates	Aspirin
+TP53	interacts	Huntington's disease
+HTT	binds	Tuberculosis
+BRCA1	treats	Headache
+TP53	binds	HTT
+Tamoxifen	treats	EGFR protein
+ACE	treats	Hypertension
+TP53	binds	EGFR
+CYP2C9	associates	Aspirin
+EGFR protein	interacts	EGFR
+INS	interacts	EGFR
+INS	binds	Aspirin
+ACE	binds	Huntington's disease
+TNF	associates	Metformin
+VEGFA	interacts	Tuberculosis
+Tamoxifen	treats	APP
+INS	interacts	Dexamethasone
+Aspirin	treats	Hydroxychloroquine
+Ibuprofen	associates	Headache
+EGFR	associates	Cisplatin
+ACE	associates	Hemoglobin
+TP53	binds	Hypertension
+EGFR	associates	Atorvastatin
+CYP2C9	binds	ACE
+Hydroxychloroquine	associates	Paracetamol
+VEGFA	treats	TP53
+Dexamethasone	interacts	TP53
+ACE	associates	Albumin
+Tamoxifen	interacts	Asthma
+APP	treats	Hemoglobin
+Ibuprofen	treats	Hydroxychloroquine
+Atorvastatin	interacts	Cisplatin
+Dexamethasone	associates	HIV infection
+Aspirin	associates	TP53
+TP53	binds	VEGFA
+ACE	associates	EGFR
+Simvastatin	associates	Hemoglobin
+Hydroxychloroquine	treats	INS
+VEGFA	associates	HIV infection
+EGFR	interacts	Huntington's disease
+TNF	interacts	Diabetes mellitus
+Metformin	associates	VEGF receptor
+EGFR	binds	Ibuprofen
+VEGF receptor	binds	Tuberculosis
+ACE	associates	Atorvastatin
+HTT	interacts	Tamoxifen
+ACE	binds	VEGFA
+HTT	interacts	Alzheimer's disease
+EGFR	associates	Diabetes mellitus
+CYP2C9	binds	Asthma
+VEGFA	treats	Diabetes mellitus
+EGFR	interacts	Diabetes mellitus
+TNF	binds	CYP2C9
+Metformin	associates	Breast cancer
+HTT	treats	Cisplatin
+Hemoglobin	interacts	Metformin
+APP	interacts	Ibuprofen
+Atorvastatin	binds	Asthma
+Hemoglobin	interacts	VEGF receptor
+HTT	associates	HIV infection
+Ibuprofen	treats	Asthma
+Albumin	treats	Dexamethasone
+Atorvastatin	binds	Alzheimer's disease
+Ibuprofen	associates	Aspirin
+Albumin	binds	Headache
+APP	treats	Aspirin
+BRCA1	treats	Albumin
+BRCA1	associates	Diabetes mellitus
+APP	associates	TNF
+APP	interacts	Paracetamol
+INS	interacts	TNF
+Cisplatin	interacts	HTT
+EGFR protein	treats	VEGF receptor
+BRCA1	associates	Hypertension
+Ibuprofen	interacts	Atorvastatin
+VEGF receptor	interacts	Dexamethasone
+Hemoglobin	interacts	Tamoxifen
+Insulin receptor	binds	VEGFA
+Hemoglobin	interacts	Hydroxychloroquine
+Paracetamol	associates	Headache
+BRCA1	binds	Ibuprofen
+ACE	interacts	TP53
+INS	treats	Alzheimer's disease
+HTT	associates	Ibuprofen
+Cisplatin	binds	CYP2C9
+Hemoglobin	treats	Headache
+APP	interacts	Aspirin
+INS	associates	HIV infection
+Metformin	associates	HIV infection
+HTT	treats	Hydroxychloroquine
+TP53	interacts	Albumin
+Paracetamol	associates	INS
+Tamoxifen	binds	Insulin receptor
+INS	binds	Cisplatin
+VEGFA	binds	Osteoarthritis
+Cisplatin	interacts	Breast cancer
+Metformin	interacts	Dexamethasone
+VEGF receptor	binds	VEGFA
+HTT	interacts	INS
+EGFR	associates	Alzheimer's disease
+Paracetamol	associates	Aspirin
+TNF	associates	HIV infection
+HTT	associates	Paracetamol
+ACE	treats	Asthma
+Ibuprofen	treats	Breast cancer
+Hydroxychloroquine	treats	Ibuprofen
+Albumin	associates	HIV infection
+Albumin	binds	Aspirin
+Aspirin	associates	Metformin
+EGFR	associates	Atorvastatin
+Tamoxifen	treats	Paracetamol
+EGFR	binds	Aspirin
+TNF	binds	Diabetes mellitus
+Tamoxifen	interacts	Alzheimer's disease
+APP	treats	HIV infection
+EGFR protein	binds	Asthma
+TNF	treats	VEGF receptor
+Cisplatin	binds	TP53
+ACE	treats	Albumin
+TP53	treats	Atorvastatin
+Dexamethasone	interacts	VEGFA
+Atorvastatin	interacts	Simvastatin
+TNF	binds	HIV infection
+Hydroxychloroquine	interacts	Simvastatin
+BRCA1	binds	Breast cancer
+Paracetamol	binds	Atorvastatin
+EGFR protein	interacts	Hydroxychloroquine
+ACE	treats	Osteoarthritis
+Atorvastatin	binds	INS
+Hemoglobin	treats	Simvastatin
+TNF	interacts	VEGF receptor
+Cisplatin	treats	HIV infection
+Atorvastatin	binds	Albumin
+Atorvastatin	treats	Alzheimer's disease
+Albumin	interacts	Hemoglobin
+APP	binds	Hemoglobin
+Dexamethasone	binds	Asthma
+Insulin receptor	binds	Alzheimer's disease
+Paracetamol	binds	Hemoglobin
+Cisplatin	interacts	BRCA1
+HTT	treats	Hydroxychloroquine
+INS	binds	CYP2C9
+EGFR	associates	Cisplatin
+BRCA1	associates	Breast cancer
+Aspirin	interacts	Hypertension
+VEGF receptor	treats	Headache
+Ibuprofen	interacts	TP53
+Dexamethasone	treats	Ibuprofen
+VEGF receptor	interacts	VEGFA
+ACE	interacts	Tuberculosis
+Dexamethasone	interacts	Breast cancer
+TNF	treats	BRCA1
+Cisplatin	binds	Paracetamol
+Hydroxychloroquine	binds	Breast cancer
+Simvastatin	associates	Ibuprofen
+VEGFA	associates	BRCA1
+Ibuprofen	interacts	Aspirin
+Tamoxifen	interacts	Hydroxychloroquine
+Insulin receptor	interacts	Alzheimer's disease
+ACE	treats	TP53
+Albumin	associates	Metformin
+Aspirin	binds	VEGFA
+CYP2C9	treats	HIV infection
+Simvastatin	binds	APP
+Metformin	treats	Aspirin
+Metformin	treats	BRCA1
+INS	treats	VEGFA
+Dexamethasone	associates	Atorvastatin
+TNF	interacts	Headache
+TP53	binds	Albumin
+Insulin receptor	binds	Atorvastatin
+Dexamethasone	treats	Tuberculosis
+Aspirin	interacts	VEGFA
+HTT	interacts	VEGFA
+Insulin receptor	interacts	Paracetamol
+Ibuprofen	binds	Paracetamol
+ACE	treats	Ibuprofen
+Simvastatin	treats	CYP2C9
+Ibuprofen	treats	Aspirin
+CYP2C9	associates	Hydroxychloroquine
+CYP2C9	treats	Metformin
+Albumin	associates	Hypertension
+EGFR	associates	Breast cancer
+EGFR	associates	APP
+Hydroxychloroquine	binds	Aspirin
+Hemoglobin	associates	APP
+INS	treats	Metformin
+EGFR protein	treats	TNF
+APP	interacts	Asthma
+VEGF receptor	treats	Huntington's disease
+Cisplatin	interacts	Hemoglobin
+HTT	binds	Diabetes mellitus
+Metformin	binds	EGFR protein
+Simvastatin	associates	Huntington's disease
+EGFR protein	binds	VEGFA
+Hydroxychloroquine	associates	Huntington's disease
+Insulin receptor	associates	VEGFA
+Paracetamol	binds	APP
+Cisplatin	treats	HTT
+EGFR	treats	Asthma
+HTT	associates	VEGFA
+ACE	treats	Simvastatin
+CYP2C9	binds	Dexamethasone
+TNF	treats	EGFR
+ACE	treats	Cisplatin
+Paracetamol	interacts	Headache
+HTT	associates	APP
+VEGF receptor	binds	Aspirin
+INS	associates	Tamoxifen
+VEGFA	interacts	TNF
+Insulin receptor	binds	Metformin
+Insulin receptor	binds	ACE
+TNF	treats	BRCA1
+Albumin	associates	Breast cancer
+APP	associates	VEGFA
+VEGFA	binds	Cisplatin
+Ibuprofen	treats	Insulin receptor
+VEGFA	binds	EGFR protein
+Ibuprofen	associates	EGFR
+Insulin receptor	associates	CYP2C9
+EGFR protein	interacts	Hydroxychloroquine
+Insulin receptor	treats	Paracetamol
+Insulin receptor	treats	Cisplatin
+Aspirin	treats	INS
+INS	interacts	Albumin
+BRCA1	interacts	Metformin
+VEGFA	interacts	Osteoarthritis
+Hydroxychloroquine	treats	Diabetes mellitus
+Hemoglobin	interacts	EGFR
+VEGF receptor	treats	Tuberculosis
+Paracetamol	associates	Diabetes mellitus
+APP	interacts	Alzheimer's disease
+EGFR	treats	Headache
+Atorvastatin	treats	Asthma
+TP53	binds	Hypertension
+Hydroxychloroquine	binds	Alzheimer's disease
+Insulin receptor	interacts	BRCA1
+Dexamethasone	treats	INS
+Cisplatin	associates	Hemoglobin
+ACE	treats	Atorvastatin
+VEGFA	interacts	Breast cancer
+Simvastatin	associates	Hemoglobin
+Dexamethasone	associates	INS
+Ibuprofen	associates	TNF
+Paracetamol	treats	Osteoarthritis
+HTT	interacts	CYP2C9
+VEGFA	interacts	HTT
+TNF	treats	EGFR
+Cisplatin	associates	APP
+EGFR	interacts	Alzheimer's disease
+Tamoxifen	treats	CYP2C9
+APP	binds	BRCA1
+Cisplatin	interacts	Simvastatin
+ACE	treats	TP53
+Albumin	binds	EGFR
+HTT	treats	Ibuprofen
+TP53	associates	ACE
+Cisplatin	treats	Alzheimer's disease
+TNF	interacts	EGFR protein
+BRCA1	treats	HTT
+Simvastatin	binds	Paracetamol
+Metformin	binds	Asthma
+VEGFA	associates	Ibuprofen
+Ibuprofen	associates	VEGFA
+Insulin receptor	binds	EGFR protein
+Hydroxychloroquine	treats	Diabetes mellitus
+Simvastatin	interacts	Asthma
+Insulin receptor	treats	TP53
+Hydroxychloroquine	binds	APP
+Paracetamol	binds	Dexamethasone
+EGFR protein	associates	Simvastatin
+INS	interacts	Hypertension
+VEGFA	interacts	Metformin
+Insulin receptor	binds	Alzheimer's disease
+ACE	treats	EGFR
+ACE	associates	Aspirin
+CYP2C9	treats	VEGFA
+CYP2C9	interacts	Breast cancer
+VEGFA	treats	Paracetamol
+Hydroxychloroquine	associates	Dexamethasone
+Hemoglobin	interacts	Aspirin
+BRCA1	treats	Dexamethasone
+VEGF receptor	associates	APP
+Hydroxychloroquine	associates	INS
+INS	treats	EGFR protein
+HTT	interacts	Paracetamol
+VEGFA	treats	Albumin
+Dexamethasone	treats	Hypertension
+EGFR	interacts	Hemoglobin
+Albumin	binds	Tuberculosis
+TNF	associates	Osteoarthritis
+TP53	treats	VEGF receptor
+Aspirin	binds	Alzheimer's disease
+Hydroxychloroquine	binds	HIV infection
+Simvastatin	binds	Hydroxychloroquine
+VEGFA	associates	EGFR
+Dexamethasone	interacts	Ibuprofen
+BRCA1	treats	Metformin
+INS	interacts	Metformin
+CYP2C9	treats	Tuberculosis
+HTT	treats	Tuberculosis
+EGFR	associates	HIV infection
+Tamoxifen	associates	TP53
+Hydroxychloroquine	interacts	Hemoglobin
+Paracetamol	associates	Aspirin
+BRCA1	treats	Albumin
+TP53	associates	Dexamethasone
+Dexamethasone	interacts	Headache
+Metformin	interacts	VEGF receptor
+Insulin receptor	interacts	Breast cancer
+EGFR	interacts	CYP2C9
+Tamoxifen	binds	TP53
+Ibuprofen	associates	Hypertension
+Cisplatin	binds	Alzheimer's disease
+Insulin receptor	interacts	Asthma
+ACE	binds	Paracetamol
+Atorvastatin	associates	Insulin receptor
+ACE	binds	Headache
+CYP2C9	associates	Alzheimer's disease
+TP53	associates	Huntington's disease
+TNF	binds	EGFR protein
+HTT	treats	Aspirin
+Tamoxifen	interacts	Hemoglobin
+BRCA1	associates	Albumin
+Hemoglobin	treats	HTT
+APP	binds	Huntington's disease
+INS	binds	Breast cancer
+VEGF receptor	binds	Osteoarthritis
+Insulin receptor	treats	Metformin
+Aspirin	binds	Simvastatin
+Ibuprofen	associates	Insulin receptor
+Metformin	binds	Simvastatin
+VEGF receptor	interacts	Hydroxychloroquine
+INS	treats	Insulin receptor
+Ibuprofen	treats	Simvastatin
+VEGF receptor	binds	Atorvastatin
+Hydroxychloroquine	treats	Simvastatin
+TNF	interacts	Headache
+Simvastatin	treats	Asthma
+Albumin	treats	EGFR
+APP	binds	HIV infection
+VEGFA	interacts	CYP2C9
+ACE	binds	Tuberculosis
+TP53	treats	Hydroxychloroquine
+EGFR protein	associates	Cisplatin
+VEGF receptor	interacts	Paracetamol
+Hemoglobin	binds	INS
+Atorvastatin	interacts	Alzheimer's disease
+EGFR protein	interacts	Breast cancer
+TP53	associates	Breast cancer
+Cisplatin	interacts	Hemoglobin
+Aspirin	binds	BRCA1
+INS	associates	Insulin receptor
+BRCA1	binds	VEGF receptor
+Insulin receptor	interacts	Hemoglobin
+Hydroxychloroquine	associates	Huntington's disease
+EGFR	interacts	Tuberculosis
+EGFR	treats	HTT
+CYP2C9	binds	Huntington's disease
+HTT	binds	BRCA1
+Simvastatin	binds	Breast cancer
+CYP2C9	treats	HIV infection
+Cisplatin	associates	Hemoglobin
+Dexamethasone	interacts	Diabetes mellitus
+Ibuprofen	binds	VEGFA
+ACE	interacts	Hemoglobin
+EGFR	interacts	Atorvastatin
+Hydroxychloroquine	binds	Asthma
+APP	treats	Simvastatin
+EGFR protein	binds	HTT
+BRCA1	associates	VEGF receptor
+Albumin	associates	Osteoarthritis
+VEGF receptor	binds	Hydroxychloroquine
+Tamoxifen	associates	Atorvastatin
+Hydroxychloroquine	interacts	Headache
+BRCA1	treats	CYP2C9
+Tamoxifen	treats	Albumin
+VEGF receptor	associates	Ibuprofen
+Paracetamol	binds	Hemoglobin
+INS	interacts	HTT
+Paracetamol	binds	Dexamethasone
+Paracetamol	binds	VEGF receptor
+TP53	binds	HIV infection
+BRCA1	associates	HIV infection
+Simvastatin	treats	Atorvastatin
+VEGFA	associates	Huntington's disease
+ACE	interacts	Insulin receptor
+APP	binds	Aspirin
+CYP2C9	binds	Paracetamol
+INS	associates	Ibuprofen
+CYP2C9	binds	TNF
+Atorvastatin	treats	Hypertension
+EGFR protein	binds	Dexamethasone
+Albumin	interacts	Hydroxychloroquine
+Insulin receptor	associates	CYP2C9
+INS	binds	Alzheimer's disease
+INS	treats	Aspirin
+Aspirin	associates	Hydroxychloroquine
+Cisplatin	binds	Breast cancer
+APP	associates	Diabetes mellitus
+APP	binds	Cisplatin
+APP	binds	VEGFA
+VEGF receptor	associates	Simvastatin
+APP	interacts	EGFR
+TNF	binds	Cisplatin
+Dexamethasone	binds	Headache
+Cisplatin	interacts	ACE
+TP53	associates	TNF
+ACE	treats	Hemoglobin
+BRCA1	interacts	Headache
+Simvastatin	associates	HIV infection
+Aspirin	binds	INS
+Tamoxifen	interacts	Alzheimer's disease
+VEGFA	binds	Albumin
+Ibuprofen	associates	Breast cancer
+HTT	interacts	EGFR
+Hemoglobin	associates	ACE
+INS	associates	Asthma
+Tamoxifen	binds	VEGF receptor
+INS	interacts	Atorvastatin
+INS	treats	Dexamethasone
+EGFR protein	interacts	Tuberculosis
+BRCA1	interacts	Albumin
+CYP2C9	binds	Simvastatin
+Simvastatin	associates	Huntington's disease
+Hemoglobin	interacts	Hydroxychloroquine
+Insulin receptor	binds	Alzheimer's disease
+Aspirin	interacts	EGFR
+TNF	interacts	ACE
+VEGFA	treats	Insulin receptor
+HTT	binds	Dexamethasone
+VEGF receptor	treats	Insulin receptor
+Dexamethasone	associates	Tuberculosis
+Dexamethasone	binds	Atorvastatin
+Cisplatin	binds	EGFR protein
+Dexamethasone	treats	Aspirin
+APP	interacts	EGFR protein
+EGFR protein	treats	TP53
+HTT	binds	Ibuprofen
+VEGF receptor	binds	Huntington's disease
+Albumin	treats	Hemoglobin
+Albumin	binds	Ibuprofen
+APP	binds	TNF
+Insulin receptor	associates	VEGF receptor
+HTT	associates	BRCA1
+VEGF receptor	binds	Metformin
+Metformin	binds	HTT
+Tamoxifen	treats	Diabetes mellitus
+ACE	associates	Hydroxychloroquine
+BRCA1	interacts	Hydroxychloroquine
+Hydroxychloroquine	treats	Tuberculosis
+HTT	interacts	Tuberculosis
+EGFR	associates	Ibuprofen
+TNF	treats	INS
+Simvastatin	treats	TNF
+Insulin receptor	treats	Dexamethasone
+Ibuprofen	treats	EGFR
+Hydroxychloroquine	associates	VEGF receptor
+Ibuprofen	binds	Atorvastatin
+Simvastatin	associates	Albumin
+Hydroxychloroquine	binds	CYP2C9
+Aspirin	treats	Simvastatin
+Hydroxychloroquine	interacts	Diabetes mellitus
+Ibuprofen	treats	Tuberculosis
+VEGFA	treats	Hydroxychloroquine
+Albumin	treats	Headache
+Albumin	interacts	Aspirin
+Hemoglobin	binds	Atorvastatin
+Tamoxifen	interacts	HTT
+Ibuprofen	associates	HIV infection
+EGFR protein	associates	Dexamethasone
+Atorvastatin	binds	Simvastatin
+Ibuprofen	treats	Osteoarthritis
+HTT	binds	Breast cancer
+HTT	treats	Simvastatin
+Simvastatin	binds	EGFR
+Metformin	associates	Dexamethasone
+Metformin	binds	EGFR protein
+Cisplatin	treats	EGFR protein
+EGFR protein	interacts	BRCA1
+BRCA1	interacts	Huntington's disease
+Paracetamol	treats	TP53
+VEGF receptor	associates	VEGFA
+INS	interacts	Ibuprofen
+VEGF receptor	treats	Diabetes mellitus
+VEGFA	associates	VEGF receptor
+CYP2C9	binds	HTT
+Atorvastatin	associates	HIV infection
+Insulin receptor	associates	CYP2C9
+Atorvastatin	interacts	Hypertension
+Ibuprofen	binds	Alzheimer's disease
+VEGF receptor	interacts	HIV infection
+VEGFA	treats	Alzheimer's disease
+VEGF receptor	binds	Hypertension
+Atorvastatin	binds	Insulin receptor
+Insulin receptor	binds	ACE
+Paracetamol	interacts	Diabetes mellitus
+Aspirin	interacts	HTT
+Paracetamol	interacts	CYP2C9
+ACE	binds	Hemoglobin
+HTT	binds	Tuberculosis
+EGFR protein	associates	INS
+Tamoxifen	interacts	Tuberculosis
+Albumin	binds	HIV infection
+Atorvastatin	interacts	VEGF receptor
+BRCA1	interacts	Alzheimer's disease
+Hemoglobin	treats	EGFR protein
+BRCA1	binds	Aspirin
+Ibuprofen	treats	Simvastatin
+Hydroxychloroquine	treats	INS
+INS	associates	VEGF receptor
+TP53	treats	Ibuprofen
+Insulin receptor	binds	HIV infection
+EGFR protein	treats	Diabetes mellitus
+BRCA1	interacts	Osteoarthritis
+VEGFA	associates	Tamoxifen
+Metformin	associates	VEGF receptor
+APP	interacts	INS
+CYP2C9	associates	TP53
+EGFR protein	binds	Albumin
+Cisplatin	treats	Atorvastatin
+Hydroxychloroquine	treats	Ibuprofen
+BRCA1	binds	Aspirin
+Hydroxychloroquine	interacts	Metformin
+ACE	binds	CYP2C9
+Insulin receptor	interacts	Atorvastatin
+Cisplatin	associates	VEGF receptor
+Cisplatin	binds	HTT
+Dexamethasone	treats	Simvastatin
+HTT	treats	Paracetamol
+Ibuprofen	associates	Alzheimer's disease
+TNF	associates	Osteoarthritis
+Atorvastatin	binds	Hydroxychloroquine
+CYP2C9	associates	Breast cancer
+Hemoglobin	binds	Breast cancer
+Albumin	interacts	TNF
+Insulin receptor	treats	Huntington's disease
+INS	treats	Albumin
+CYP2C9	binds	VEGF receptor
+ACE	binds	EGFR
+BRCA1	binds	INS
+Simvastatin	treats	Aspirin
+Aspirin	binds	Cisplatin
+APP	associates	HTT
+Aspirin	associates	Ibuprofen
+Ibuprofen	treats	Dexamethasone
+APP	interacts	BRCA1
+INS	interacts	CYP2C9
+Paracetamol	treats	Simvastatin
+Simvastatin	interacts	EGFR protein
+Hydroxychloroquine	interacts	Tuberculosis
+Hemoglobin	treats	Aspirin
+TNF	binds	ACE
+TP53	associates	Cisplatin
+Simvastatin	treats	TNF
+Aspirin	associates	Hypertension
+BRCA1	interacts	INS
+APP	associates	Tuberculosis
+APP	binds	Cisplatin
+CYP2C9	associates	Tamoxifen
+APP	interacts	ACE
+Insulin receptor	treats	VEGF receptor
+TP53	associates	TNF
+Hemoglobin	associates	Breast cancer
+Cisplatin	associates	TNF
+CYP2C9	associates	Breast cancer
+Albumin	interacts	Aspirin
+BRCA1	binds	Aspirin
+Metformin	binds	INS
+Atorvastatin	associates	Diabetes mellitus
+APP	interacts	Hypertension
+TP53	interacts	Osteoarthritis
+Aspirin	associates	CYP2C9
+Metformin	treats	TNF
+Hemoglobin	interacts	EGFR protein
+EGFR protein	treats	Simvastatin
+EGFR protein	treats	BRCA1
+Albumin	interacts	Hemoglobin
+Hemoglobin	interacts	Hydroxychloroquine
+Hydroxychloroquine	interacts	APP
+Cisplatin	binds	Atorvastatin
+Insulin receptor	interacts	Cisplatin
+TNF	associates	VEGFA
+EGFR	associates	Asthma
+BRCA1	treats	HIV infection
+ACE	treats	Dexamethasone
+Aspirin	interacts	Paracetamol
+Ibuprofen	treats	VEGFA
+CYP2C9	associates	ACE
+Cisplatin	binds	VEGFA
+Hydroxychloroquine	treats	CYP2C9
+EGFR	binds	VEGFA
+Insulin receptor	treats	HIV infection
+CYP2C9	associates	HTT
+BRCA1	binds	EGFR protein
+Albumin	binds	APP
+ACE	treats	Asthma
+Insulin receptor	binds	EGFR protein
+TNF	treats	INS
+Simvastatin	interacts	Ibuprofen
+Simvastatin	treats	Metformin
+Cisplatin	associates	Hypertension
+INS	associates	Huntington's disease
+Insulin receptor	interacts	Hydroxychloroquine
+VEGFA	binds	TP53
+INS	treats	Breast cancer
+Hemoglobin	interacts	Cisplatin
+Insulin receptor	associates	EGFR protein
+INS	treats	Dexamethasone
+Metformin	associates	Dexamethasone
+VEGFA	interacts	Tuberculosis
+Ibuprofen	binds	Hemoglobin
+VEGFA	associates	Asthma
+TP53	interacts	Hydroxychloroquine
+APP	interacts	VEGF receptor
+EGFR protein	interacts	Headache
+Insulin receptor	interacts	Hydroxychloroquine
+Aspirin	binds	Headache
+Hemoglobin	binds	Metformin
+APP	associates	Huntington's disease
+Insulin receptor	associates	INS
+Simvastatin	associates	INS
+Albumin	binds	Insulin receptor
+APP	treats	Albumin
+Hemoglobin	binds	Paracetamol
+VEGF receptor	binds	Huntington's disease
+TNF	associates	CYP2C9
+VEGF receptor	treats	APP
+Tamoxifen	binds	VEGF receptor
+ACE	interacts	Simvastatin
+Albumin	binds	Simvastatin
+ACE	associates	Albumin
+TNF	associates	Tuberculosis
+Atorvastatin	associates	Metformin
+Metformin	binds	Dexamethasone
+TP53	interacts	Paracetamol
+HTT	binds	Asthma
+APP	associates	HTT
+EGFR protein	associates	CYP2C9
+Insulin receptor	treats	Dexamethasone
+VEGFA	interacts	APP
+Dexamethasone	interacts	Cisplatin
+Ibuprofen	associates	EGFR protein
+Hydroxychloroquine	associates	TNF
+Atorvastatin	binds	Dexamethasone
+VEGF receptor	associates	HIV infection
+INS	interacts	Asthma
+Albumin	interacts	ACE
+ACE	associates	Simvastatin
+Simvastatin	binds	HIV infection
+Hemoglobin	interacts	Tamoxifen
+Atorvastatin	interacts	Metformin
+Ibuprofen	associates	Cisplatin
+Simvastatin	associates	Ibuprofen
+CYP2C9	treats	Ibuprofen
+Hydroxychloroquine	binds	Albumin
+EGFR protein	treats	Headache
+APP	binds	Tamoxifen
+VEGFA	treats	Hydroxychloroquine
+Paracetamol	treats	Osteoarthritis
+CYP2C9	interacts	Hypertension
+Albumin	associates	Diabetes mellitus
+Dexamethasone	associates	Aspirin
+Aspirin	treats	Alzheimer's disease
+TP53	binds	Cisplatin
+TNF	treats	Paracetamol
+APP	associates	Albumin
+INS	binds	VEGFA
+VEGFA	treats	Cisplatin
+VEGFA	binds	Hemoglobin
+Tamoxifen	interacts	Ibuprofen
+BRCA1	binds	Asthma
+Hydroxychloroquine	interacts	Breast cancer
+Cisplatin	binds	Simvastatin
+Cisplatin	interacts	EGFR protein
+Simvastatin	associates	VEGF receptor
+Albumin	associates	Atorvastatin
+Albumin	interacts	Huntington's disease
+CYP2C9	associates	Tamoxifen
+Cisplatin	associates	Tamoxifen
+EGFR	binds	INS
+Simvastatin	associates	CYP2C9
+Aspirin	binds	Tamoxifen
+Paracetamol	binds	Insulin receptor
+Hydroxychloroquine	interacts	CYP2C9
+INS	associates	Cisplatin
+Paracetamol	treats	Simvastatin
+CYP2C9	treats	Ibuprofen
+TNF	associates	TP53
+Hemoglobin	interacts	Metformin
+EGFR protein	interacts	HIV infection
+Tamoxifen	treats	Paracetamol
+Cisplatin	associates	Paracetamol
+Albumin	treats	TP53
+Hemoglobin	associates	Tuberculosis
+TP53	treats	APP
+VEGFA	binds	Paracetamol
+Hemoglobin	binds	BRCA1
+CYP2C9	binds	ACE
+HTT	interacts	Asthma
+Simvastatin	binds	Paracetamol
+Aspirin	associates	BRCA1
+Paracetamol	binds	Alzheimer's disease
+Hemoglobin	interacts	Breast cancer
+VEGF receptor	treats	TP53
+Hydroxychloroquine	interacts	BRCA1
+Atorvastatin	binds	Breast cancer
+EGFR	binds	Breast cancer
+Atorvastatin	associates	Asthma
+Ibuprofen	associates	Diabetes mellitus
+Paracetamol	interacts	TNF
+BRCA1	associates	VEGFA
+Cisplatin	interacts	TNF
+Aspirin	treats	Metformin
+Ibuprofen	treats	Albumin
+CYP2C9	binds	BRCA1
+VEGFA	treats	Dexamethasone
+APP	treats	Asthma
+Albumin	associates	Huntington's disease
+Tamoxifen	treats	VEGF receptor
+Simvastatin	treats	Metformin
+Simvastatin	interacts	VEGFA
+Hydroxychloroquine	binds	Alzheimer's disease
+Tamoxifen	treats	Diabetes mellitus
+EGFR	interacts	Hypertension
+ACE	interacts	CYP2C9
+Ibuprofen	binds	Alzheimer's disease
+Ibuprofen	associates	ACE
+Atorvastatin	binds	Insulin receptor
+TNF	associates	VEGFA
+HTT	associates	Albumin
+CYP2C9	binds	EGFR protein
+TP53	treats	Cisplatin
+Hemoglobin	binds	TNF
+EGFR	binds	Hydroxychloroquine
+VEGF receptor	interacts	HTT
+HTT	interacts	Simvastatin
+Hydroxychloroquine	interacts	Hypertension
+Simvastatin	binds	TP53
+Paracetamol	interacts	APP
+Dexamethasone	treats	Breast cancer
+Simvastatin	treats	Asthma
+APP	binds	Asthma
+APP	interacts	EGFR
+TNF	treats	VEGF receptor
+Insulin receptor	binds	Paracetamol
+Dexamethasone	treats	Breast cancer
+TNF	interacts	Albumin
+EGFR protein	binds	Ibuprofen
+CYP2C9	treats	TNF
+VEGF receptor	treats	Osteoarthritis
+Hydroxychloroquine	binds	Insulin receptor
+Insulin receptor	associates	INS
+VEGF receptor	binds	EGFR protein
+EGFR protein	associates	Hemoglobin
+Insulin receptor	treats	Breast cancer
+EGFR protein	treats	Hypertension
+VEGFA	interacts	Metformin
+Dexamethasone	interacts	Breast cancer
+EGFR protein	binds	Breast cancer
+VEGF receptor	interacts	Asthma
+Metformin	interacts	VEGF receptor
+BRCA1	associates	HTT
+Albumin	associates	EGFR protein
+Hydroxychloroquine	binds	Asthma
+Dexamethasone	binds	Cisplatin
+VEGFA	treats	Albumin
+Tamoxifen	treats	EGFR protein
+VEGF receptor	interacts	VEGFA
+Simvastatin	treats	HIV infection
+EGFR	interacts	Insulin receptor
+EGFR protein	interacts	Headache
+Atorvastatin	binds	APP
+HTT	treats	Insulin receptor
+TP53	interacts	Dexamethasone
+Dexamethasone	binds	Diabetes mellitus
+Dexamethasone	associates	Cisplatin
+Simvastatin	binds	Ibuprofen
+INS	binds	TP53
+Simvastatin	treats	HTT
+BRCA1	binds	Ibuprofen
+Hydroxychloroquine	associates	Headache
+INS	interacts	TNF
+Hemoglobin	treats	VEGF receptor
+Dexamethasone	treats	Aspirin
+BRCA1	binds	TNF
+Ibuprofen	associates	Insulin receptor
+Metformin	associates	Aspirin
+EGFR	binds	HTT
+BRCA1	interacts	HTT
+Cisplatin	binds	Alzheimer's disease
+VEGFA	associates	TP53
+Hydroxychloroquine	binds	BRCA1
+Atorvastatin	binds	Albumin
+Atorvastatin	associates	Hemoglobin
+Hydroxychloroquine	associates	Huntington's disease
+BRCA1	treats	TP53
+Tamoxifen	interacts	VEGFA
+Hydroxychloroquine	interacts	Breast cancer
+TNF	interacts	APP
+Hydroxychloroquine	interacts	ACE
+Insulin receptor	interacts	Headache
+TNF	binds	CYP2C9
+Aspirin	treats	TNF
+Aspirin	binds	Atorvastatin
+Aspirin	interacts	Paracetamol
+Aspirin	associates	TP53
+Hydroxychloroquine	interacts	Breast cancer
+EGFR	treats	Hemoglobin
+APP	associates	Insulin receptor
+Tamoxifen	treats	EGFR protein
+EGFR	interacts	Tamoxifen
+VEGFA	treats	CYP2C9
+Atorvastatin	interacts	Alzheimer's disease
+BRCA1	binds	TP53
+TNF	treats	HIV infection
+Hemoglobin	associates	ACE
+BRCA1	binds	Ibuprofen
+Hemoglobin	interacts	EGFR protein
+Hydroxychloroquine	binds	Breast cancer
+Insulin receptor	treats	Asthma
+Ibuprofen	associates	Hemoglobin
+Dexamethasone	interacts	Metformin
+VEGF receptor	associates	Hemoglobin
+Insulin receptor	binds	EGFR
+BRCA1	treats	Asthma
+Simvastatin	binds	Alzheimer's disease
+Hydroxychloroquine	associates	APP
+Metformin	associates	Headache
+Hydroxychloroquine	treats	VEGFA
+HTT	binds	Dexamethasone
+Metformin	associates	HTT
+Tamoxifen	binds	Paracetamol
+Albumin	binds	Osteoarthritis
+CYP2C9	interacts	Hypertension
+EGFR protein	interacts	Headache
+Cisplatin	associates	Diabetes mellitus
+ACE	treats	EGFR protein
+VEGFA	binds	Ibuprofen
+VEGF receptor	treats	Paracetamol
+TP53	associates	Hypertension
+Dexamethasone	associates	Tamoxifen
+BRCA1	interacts	Asthma
+EGFR protein	associates	Simvastatin
+Cisplatin	associates	APP
+EGFR protein	binds	Simvastatin
+Albumin	treats	APP
+VEGF receptor	treats	TP53
+HTT	interacts	Paracetamol
+Aspirin	interacts	CYP2C9
+ACE	treats	Headache
+Tamoxifen	treats	Hydroxychloroquine
+Metformin	interacts	Osteoarthritis
+EGFR protein	interacts	TP53
+Paracetamol	interacts	TP53
+EGFR protein	binds	TNF
+Albumin	treats	EGFR
+VEGF receptor	binds	Paracetamol
+ACE	treats	EGFR protein
+EGFR protein	treats	Asthma
+Cisplatin	binds	Tamoxifen
+Albumin	interacts	Alzheimer's disease
+Paracetamol	treats	Tuberculosis
+CYP2C9	interacts	Atorvastatin
+Metformin	associates	Hemoglobin
+Paracetamol	interacts	Tuberculosis
+Dexamethasone	associates	Headache
+Paracetamol	treats	Hydroxychloroquine
+Atorvastatin	associates	Hydroxychloroquine
+Tamoxifen	binds	EGFR protein
+Atorvastatin	binds	VEGF receptor
+HTT	binds	HIV infection
+APP	binds	Insulin receptor
+TNF	treats	VEGF receptor
+Aspirin	interacts	Headache
+Ibuprofen	interacts	VEGF receptor
+Simvastatin	binds	HIV infection
+HTT	interacts	INS
+TNF	treats	HTT
+Atorvastatin	associates	VEGFA
+Atorvastatin	treats	Paracetamol
+Albumin	associates	BRCA1
+Simvastatin	interacts	Huntington's disease
+Atorvastatin	interacts	BRCA1
+APP	interacts	Breast cancer
+VEGF receptor	associates	Huntington's disease
+HTT	associates	Hypertension
+Tamoxifen	associates	Asthma
+CYP2C9	interacts	TNF
+Albumin	binds	VEGF receptor
+HTT	associates	Tamoxifen
+Hemoglobin	binds	ACE
+BRCA1	treats	ACE
+CYP2C9	treats	HIV infection
+BRCA1	treats	Breast cancer
+Dexamethasone	binds	Alzheimer's disease
+TNF	treats	Hemoglobin
+EGFR	associates	EGFR protein
+INS	treats	Aspirin
+Aspirin	treats	Metformin
+CYP2C9	interacts	Ibuprofen
+Ibuprofen	interacts	Cisplatin
+VEGF receptor	binds	VEGFA
+Albumin	binds	INS
+Cisplatin	binds	VEGF receptor
+Dexamethasone	treats	Diabetes mellitus
+EGFR	treats	EGFR protein
+Paracetamol	binds	Asthma
+BRCA1	interacts	VEGF receptor
+VEGFA	binds	EGFR protein
+CYP2C9	associates	Tamoxifen
+ACE	treats	EGFR protein
+Cisplatin	interacts	VEGFA
+EGFR protein	binds	ACE
+Dexamethasone	binds	Tamoxifen
+Metformin	treats	Simvastatin
+TNF	interacts	EGFR
+TP53	interacts	INS
+Ibuprofen	binds	Aspirin
+TNF	interacts	Tuberculosis
+Cisplatin	interacts	EGFR protein
+HTT	associates	Paracetamol
+INS	associates	Osteoarthritis
+ACE	interacts	TP53
+APP	interacts	ACE
+VEGFA	treats	Breast cancer
+Aspirin	treats	Headache
+Insulin receptor	treats	VEGFA
+HTT	associates	Albumin
+TNF	interacts	Aspirin
+EGFR protein	associates	Headache
+Albumin	treats	Hemoglobin
+Hemoglobin	binds	Paracetamol
+INS	associates	Tamoxifen
+Metformin	treats	Simvastatin
+HTT	treats	EGFR
+Albumin	treats	VEGF receptor
+VEGF receptor	treats	Simvastatin
+EGFR	interacts	TNF
+TNF	binds	Diabetes mellitus
+CYP2C9	treats	ACE
+Hydroxychloroquine	interacts	Albumin
+ACE	associates	Hemoglobin
+Insulin receptor	associates	APP
+HTT	treats	Osteoarthritis
+Insulin receptor	interacts	VEGFA
+Albumin	associates	Aspirin
+Insulin receptor	treats	INS
+INS	interacts	EGFR protein
+EGFR protein	associates	BRCA1
+APP	associates	Cisplatin
+Metformin	treats	APP
+EGFR protein	associates	Dexamethasone
+ACE	treats	HIV infection
+APP	treats	Ibuprofen
+Hydroxychloroquine	interacts	ACE
+CYP2C9	treats	Aspirin
+INS	interacts	BRCA1
+Hemoglobin	associates	VEGF receptor
+Hemoglobin	associates	Dexamethasone
+BRCA1	binds	Tuberculosis
+VEGF receptor	associates	Dexamethasone
+Insulin receptor	treats	Simvastatin
+VEGFA	binds	APP
+Insulin receptor	binds	HIV infection
+Hydroxychloroquine	interacts	Tamoxifen
+Hydroxychloroquine	interacts	Osteoarthritis
+CYP2C9	interacts	Breast cancer
+Atorvastatin	treats	APP
+ACE	interacts	Dexamethasone
+Albumin	binds	Paracetamol
+TP53	treats	Atorvastatin
+BRCA1	associates	TNF
+Atorvastatin	binds	EGFR
+Dexamethasone	associates	Hydroxychloroquine
+VEGF receptor	associates	Hypertension
+TP53	treats	Tuberculosis
+Ibuprofen	associates	Asthma
+Cisplatin	associates	Hemoglobin
+EGFR	interacts	CYP2C9
+CYP2C9	binds	ACE
+Insulin receptor	associates	Cisplatin
+ACE	associates	EGFR protein
+APP	associates	ACE
+Hydroxychloroquine	associates	Hypertension
+CYP2C9	treats	VEGF receptor
+Hydroxychloroquine	associates	Huntington's disease
+APP	binds	TNF
+EGFR protein	interacts	Diabetes mellitus
+TNF	associates	Atorvastatin
+Cisplatin	associates	Hydroxychloroquine
+VEGF receptor	treats	Tamoxifen
+INS	binds	Headache
+VEGFA	interacts	Tamoxifen
+Atorvastatin	binds	Alzheimer's disease
+ACE	treats	Atorvastatin
+Albumin	interacts	Metformin
+EGFR	interacts	Ibuprofen
+Simvastatin	treats	Diabetes mellitus
+EGFR	associates	ACE
+Hydroxychloroquine	interacts	CYP2C9
+Hydroxychloroquine	binds	Headache
+ACE	treats	Aspirin
+EGFR protein	interacts	Metformin
+BRCA1	binds	Diabetes mellitus
+EGFR protein	binds	Tuberculosis
+Atorvastatin	treats	EGFR
+Aspirin	associates	ACE
+INS	treats	Huntington's disease
+VEGF receptor	binds	Dexamethasone
+EGFR	associates	VEGF receptor
+Dexamethasone	associates	Metformin
+Simvastatin	treats	Insulin receptor
+Metformin	binds	Paracetamol
+Insulin receptor	interacts	Huntington's disease
+Atorvastatin	associates	Metformin
+Aspirin	treats	Alzheimer's disease
+BRCA1	treats	VEGF receptor
+Hemoglobin	treats	CYP2C9
+Ibuprofen	associates	EGFR protein
+Hydroxychloroquine	interacts	Simvastatin
+HTT	associates	Diabetes mellitus
+Albumin	interacts	Cisplatin
+BRCA1	binds	Asthma
+Tamoxifen	binds	Huntington's disease
+Hemoglobin	associates	Alzheimer's disease
+VEGF receptor	treats	TNF
+CYP2C9	associates	EGFR
+TNF	treats	Hemoglobin
+EGFR protein	treats	EGFR
+Simvastatin	binds	BRCA1
+Aspirin	treats	Paracetamol
+INS	associates	Paracetamol
+Paracetamol	associates	HTT
+INS	binds	Tamoxifen
+Paracetamol	treats	Tuberculosis
+Insulin receptor	associates	Tamoxifen
+Albumin	treats	EGFR protein
+Insulin receptor	treats	EGFR protein
+APP	binds	INS
+Hydroxychloroquine	treats	Huntington's disease
+Ibuprofen	associates	Albumin
+Ibuprofen	associates	VEGF receptor
+Tamoxifen	binds	Headache
+EGFR protein	associates	Diabetes mellitus
+Paracetamol	associates	EGFR protein
+ACE	treats	Cisplatin
+INS	interacts	Ibuprofen
+Hemoglobin	treats	Atorvastatin
+EGFR	associates	Osteoarthritis
+Albumin	associates	BRCA1
+Ibuprofen	interacts	Asthma
+Dexamethasone	associates	Ibuprofen
+INS	treats	EGFR protein
+EGFR	binds	APP
+Aspirin	treats	APP
+Atorvastatin	treats	Insulin receptor
+VEGF receptor	binds	Dexamethasone
+Simvastatin	treats	Atorvastatin
+Paracetamol	interacts	CYP2C9
+HTT	treats	Insulin receptor
+TP53	binds	BRCA1
+EGFR	binds	Alzheimer's disease
+Aspirin	interacts	CYP2C9
+VEGF receptor	interacts	Ibuprofen
+Paracetamol	binds	Cisplatin
+EGFR protein	interacts	APP
+INS	treats	Osteoarthritis
+Tamoxifen	treats	Cisplatin
+Metformin	treats	EGFR
+Tamoxifen	binds	Breast cancer
+Hemoglobin	binds	Alzheimer's disease
+Albumin	treats	Osteoarthritis
+HTT	associates	Dexamethasone
+Tamoxifen	associates	EGFR protein
+APP	interacts	INS
+TP53	binds	Tamoxifen
+VEGF receptor	binds	Headache
+Hydroxychloroquine	interacts	Osteoarthritis
+Albumin	interacts	VEGF receptor
+APP	binds	HIV infection
+Tamoxifen	associates	Albumin
+Atorvastatin	treats	EGFR protein
+Insulin receptor	associates	ACE
+ACE	treats	Alzheimer's disease
+VEGF receptor	associates	Hemoglobin
+ACE	treats	Alzheimer's disease
+INS	treats	Aspirin
+ACE	associates	Tamoxifen
+Tamoxifen	interacts	Simvastatin
+Simvastatin	binds	INS
+TNF	interacts	Headache
+Atorvastatin	interacts	Osteoarthritis
+EGFR protein	interacts	TNF
+VEGF receptor	associates	Insulin receptor
+VEGFA	interacts	Simvastatin
+Atorvastatin	treats	Ibuprofen
+HTT	binds	HIV infection
+TP53	interacts	Ibuprofen
+Ibuprofen	treats	Tuberculosis
+Hydroxychloroquine	associates	VEGFA
+Cisplatin	binds	Hypertension
+Metformin	associates	VEGFA
+Dexamethasone	binds	Ibuprofen
+TP53	treats	Metformin
+Insulin receptor	binds	Metformin
+INS	binds	Metformin
+INS	treats	Tamoxifen
+Hemoglobin	associates	VEGF receptor
+BRCA1	interacts	Hydroxychloroquine
+ACE	associates	Insulin receptor
+EGFR protein	associates	Alzheimer's disease
+TP53	treats	Headache
+Hemoglobin	binds	Tuberculosis
+Ibuprofen	interacts	HIV infection
+INS	associates	ACE
+Metformin	treats	TNF
+Hydroxychloroquine	interacts	Osteoarthritis
+Cisplatin	associates	Insulin receptor
+BRCA1	binds	Huntington's disease
+Insulin receptor	interacts	HIV infection
+TP53	interacts	Breast cancer
+HTT	interacts	Cisplatin
+Paracetamol	associates	INS
+Aspirin	binds	Diabetes mellitus
+VEGFA	binds	Insulin receptor
+Paracetamol	treats	Alzheimer's disease
+APP	associates	Hypertension
+EGFR	associates	Metformin
+EGFR protein	interacts	Insulin receptor
+BRCA1	binds	Tuberculosis
+EGFR	interacts	Tamoxifen
+VEGFA	interacts	ACE
+TP53	associates	HTT
+TP53	treats	HIV infection
+Dexamethasone	interacts	Hypertension
+Atorvastatin	binds	BRCA1
+Cisplatin	treats	Tamoxifen
+CYP2C9	associates	Aspirin
+CYP2C9	binds	TP53
+Hemoglobin	binds	TNF
+Atorvastatin	treats	Paracetamol
+Ibuprofen	interacts	Simvastatin
+APP	associates	HTT
+Metformin	associates	TP53
+EGFR	interacts	INS
+Insulin receptor	treats	APP
+HTT	associates	Simvastatin
+Dexamethasone	binds	Osteoarthritis
+INS	interacts	Breast cancer
+ACE	associates	Hemoglobin
+TNF	treats	VEGF receptor
+Paracetamol	associates	Osteoarthritis
+Metformin	treats	Paracetamol
+EGFR	treats	TP53
+Cisplatin	interacts	Asthma
+Metformin	binds	Atorvastatin
+Ibuprofen	binds	INS
+Simvastatin	binds	Osteoarthritis
+Cisplatin	associates	EGFR protein
+ACE	binds	HTT
+VEGFA	binds	HTT
+Tamoxifen	treats	Aspirin
+TP53	binds	ACE
+ACE	binds	Hypertension
+EGFR protein	interacts	Dexamethasone
+EGFR	binds	Diabetes mellitus
+Atorvastatin	interacts	Metformin
+EGFR	interacts	CYP2C9
+Hydroxychloroquine	interacts	VEGF receptor
+BRCA1	binds	Hypertension
+VEGFA	treats	Dexamethasone
+TNF	treats	Cisplatin
+Simvastatin	treats	Tamoxifen
+Hydroxychloroquine	associates	Cisplatin
+Hydroxychloroquine	associates	Aspirin
+EGFR	interacts	Hydroxychloroquine
+VEGFA	associates	Osteoarthritis
+APP	interacts	Breast cancer
+Hydroxychloroquine	associates	BRCA1
+EGFR protein	binds	CYP2C9
+EGFR	associates	Tamoxifen
+Metformin	binds	HIV infection
+Aspirin	associates	Osteoarthritis
+Tamoxifen	binds	Huntington's disease
+Metformin	associates	INS
+Hydroxychloroquine	interacts	Headache
+INS	associates	EGFR protein
+Albumin	treats	Insulin receptor
+Tamoxifen	interacts	Tuberculosis
+TP53	binds	Headache
+EGFR protein	binds	VEGF receptor
+VEGFA	binds	Insulin receptor
+VEGFA	treats	Hydroxychloroquine
+Cisplatin	treats	VEGF receptor
+Atorvastatin	associates	CYP2C9
+Cisplatin	binds	Tuberculosis
+Dexamethasone	treats	CYP2C9
+CYP2C9	binds	TNF
+INS	interacts	Insulin receptor
+Cisplatin	associates	Hypertension
+Atorvastatin	interacts	Tuberculosis
+Albumin	interacts	Hypertension
+ACE	interacts	Hemoglobin
+BRCA1	treats	Diabetes mellitus
+Hemoglobin	treats	INS
+INS	interacts	Breast cancer
+BRCA1	binds	Hydroxychloroquine
+TNF	interacts	Diabetes mellitus
+Dexamethasone	treats	Insulin receptor
+Cisplatin	treats	Dexamethasone
+CYP2C9	binds	EGFR
+Dexamethasone	binds	Osteoarthritis
+Simvastatin	associates	HTT
+Albumin	treats	Cisplatin
+Simvastatin	binds	Insulin receptor
+EGFR	interacts	Insulin receptor
+TNF	treats	Asthma
+Dexamethasone	binds	BRCA1
+Metformin	associates	Insulin receptor
+ACE	treats	EGFR
+Cisplatin	interacts	BRCA1
+Aspirin	associates	BRCA1
+Simvastatin	treats	VEGFA
+TP53	treats	BRCA1
+Atorvastatin	interacts	Hypertension
+Metformin	associates	Headache
+TP53	treats	Hypertension
+Ibuprofen	associates	BRCA1
+EGFR protein	treats	VEGFA
+TNF	treats	Aspirin
+Tamoxifen	associates	Hypertension
+Hemoglobin	binds	TP53
+CYP2C9	binds	Aspirin
+Ibuprofen	treats	Simvastatin
+EGFR	associates	CYP2C9
+Tamoxifen	binds	Breast cancer
+BRCA1	associates	Tamoxifen
+Paracetamol	binds	Breast cancer
+Aspirin	binds	HIV infection
+Hydroxychloroquine	interacts	HTT
+Ibuprofen	treats	HTT
+EGFR protein	treats	Tamoxifen
+Paracetamol	interacts	Atorvastatin
+Metformin	binds	Cisplatin
+Albumin	treats	Ibuprofen
+Tamoxifen	treats	HIV infection
+TNF	treats	Headache
+TP53	interacts	Atorvastatin
+EGFR	interacts	Osteoarthritis
+Cisplatin	interacts	Breast cancer
+INS	treats	Ibuprofen
+Cisplatin	interacts	Insulin receptor
+Hemoglobin	treats	VEGFA
+Hemoglobin	treats	Simvastatin
+Tamoxifen	binds	Metformin
+Cisplatin	associates	Aspirin
+Cisplatin	interacts	Dexamethasone
+EGFR protein	interacts	Breast cancer
+Aspirin	binds	Insulin receptor
+INS	associates	Diabetes mellitus
+Hemoglobin	interacts	EGFR protein
+Dexamethasone	interacts	APP
+EGFR	interacts	INS
+Simvastatin	binds	VEGFA
+INS	interacts	TP53
+HTT	interacts	Osteoarthritis
+Cisplatin	associates	Asthma
+Aspirin	associates	Huntington's disease
+APP	treats	Hypertension
+Aspirin	associates	EGFR protein
+Paracetamol	interacts	INS
+CYP2C9	interacts	Osteoarthritis
+APP	binds	Asthma
+CYP2C9	associates	Breast cancer
+Simvastatin	interacts	Aspirin
+Hemoglobin	binds	Alzheimer's disease
+APP	interacts	Ibuprofen
+Simvastatin	binds	Alzheimer's disease
+Tamoxifen	binds	Diabetes mellitus
+EGFR	treats	Hemoglobin
+Dexamethasone	binds	Headache
+CYP2C9	interacts	Tamoxifen
+Ibuprofen	binds	EGFR
+EGFR	binds	Paracetamol
+Dexamethasone	interacts	Alzheimer's disease
+CYP2C9	treats	TP53
+Aspirin	interacts	Breast cancer
+APP	binds	Tamoxifen
+Dexamethasone	interacts	TNF
+Paracetamol	associates	Atorvastatin
+HTT	treats	Asthma
+Ibuprofen	interacts	Simvastatin
+TP53	interacts	TNF
+APP	binds	Simvastatin
+APP	binds	Simvastatin
+Aspirin	associates	BRCA1
+APP	treats	Diabetes mellitus
+Hydroxychloroquine	interacts	VEGFA
+APP	interacts	Hydroxychloroquine
+INS	interacts	Paracetamol
+Simvastatin	associates	ACE
+TP53	associates	Paracetamol
+Albumin	interacts	Breast cancer
+Hemoglobin	associates	INS
+Albumin	interacts	Dexamethasone
+Atorvastatin	binds	TNF
+APP	treats	Alzheimer's disease
+INS	treats	TP53
+HTT	binds	Hypertension
+BRCA1	interacts	Albumin
+INS	associates	Osteoarthritis
+APP	associates	Huntington's disease
+Cisplatin	binds	Hemoglobin
+Insulin receptor	interacts	VEGF receptor
+VEGF receptor	associates	Asthma
+Ibuprofen	interacts	Cisplatin
+Aspirin	associates	Albumin
+Hemoglobin	interacts	HTT
+Aspirin	associates	Diabetes mellitus
+Dexamethasone	interacts	Tamoxifen
+CYP2C9	interacts	TP53
+Albumin	binds	Osteoarthritis
+Insulin receptor	treats	Metformin
+Insulin receptor	binds	CYP2C9
+Albumin	binds	Hydroxychloroquine
+ACE	interacts	TP53
+Aspirin	interacts	Huntington's disease
+TNF	associates	CYP2C9
+Simvastatin	associates	HTT
+ACE	interacts	Cisplatin
+Atorvastatin	treats	Insulin receptor
+Paracetamol	binds	INS
+BRCA1	treats	VEGF receptor
+Insulin receptor	interacts	Cisplatin
+Cisplatin	interacts	Headache
+Tamoxifen	treats	Diabetes mellitus
+CYP2C9	associates	Headache
+INS	interacts	HTT
+ACE	associates	VEGF receptor
+EGFR protein	associates	Hypertension
+Dexamethasone	binds	HIV infection
+Aspirin	interacts	Albumin
+Ibuprofen	associates	TNF
+Paracetamol	interacts	Insulin receptor
+Insulin receptor	binds	Alzheimer's disease
+Simvastatin	binds	Insulin receptor
+TP53	binds	Tamoxifen
+Tamoxifen	interacts	BRCA1
+Paracetamol	treats	CYP2C9
+HTT	treats	CYP2C9
+Hemoglobin	interacts	Huntington's disease
+Hydroxychloroquine	binds	Tamoxifen
+ACE	associates	Alzheimer's disease
+Dexamethasone	binds	Albumin
+TNF	interacts	HIV infection
+Hydroxychloroquine	binds	Tuberculosis
+Aspirin	binds	BRCA1
+EGFR	interacts	HTT
+Metformin	treats	Alzheimer's disease
+EGFR	interacts	Cisplatin
+TP53	interacts	VEGFA
+Aspirin	binds	Hemoglobin
+Aspirin	interacts	Cisplatin
+Albumin	interacts	TP53
+BRCA1	treats	Insulin receptor
+ACE	interacts	EGFR
+EGFR protein	interacts	HIV infection
+Tamoxifen	interacts	ACE
+CYP2C9	treats	APP
+Hydroxychloroquine	associates	Headache
+Hydroxychloroquine	binds	Tuberculosis
+CYP2C9	binds	Hypertension
+Atorvastatin	binds	Tamoxifen
+Simvastatin	interacts	ACE
+HTT	interacts	Asthma
+BRCA1	binds	Alzheimer's disease
+VEGF receptor	treats	Huntington's disease
+APP	associates	HIV infection
+Metformin	binds	Insulin receptor
+CYP2C9	binds	Simvastatin
+Aspirin	binds	VEGF receptor
+Metformin	treats	Dexamethasone
+CYP2C9	associates	INS
+TNF	interacts	Simvastatin
+Insulin receptor	interacts	Hypertension
+Ibuprofen	binds	HIV infection
+Tamoxifen	binds	VEGFA
+Albumin	treats	Osteoarthritis
+VEGFA	treats	Ibuprofen
+Metformin	treats	TP53
+CYP2C9	associates	Headache
+Aspirin	associates	VEGF receptor
+APP	binds	Diabetes mellitus
+EGFR protein	interacts	HTT
+APP	associates	Breast cancer
+Aspirin	binds	Ibuprofen
+APP	interacts	Tamoxifen
+VEGF receptor	associates	Dexamethasone
+Atorvastatin	interacts	Metformin
+Insulin receptor	interacts	Asthma
+Albumin	treats	Tuberculosis
+Tamoxifen	interacts	Hydroxychloroquine
+Ibuprofen	interacts	Hypertension
+TNF	associates	Metformin
+ACE	binds	EGFR
+Hydroxychloroquine	associates	Diabetes mellitus
+Hemoglobin	treats	Headache
+Hemoglobin	associates	Asthma
+Albumin	interacts	Alzheimer's disease
+Albumin	binds	Osteoarthritis
+EGFR	interacts	HIV infection
+HTT	treats	Osteoarthritis
+TP53	associates	Breast cancer
+Hemoglobin	binds	Paracetamol
+VEGF receptor	interacts	Simvastatin
+EGFR	treats	Hemoglobin
+Tamoxifen	associates	Ibuprofen
+VEGFA	associates	Diabetes mellitus
+TP53	associates	Diabetes mellitus
+Cisplatin	binds	Alzheimer's disease
+VEGFA	treats	Hydroxychloroquine
+Atorvastatin	binds	CYP2C9
+CYP2C9	binds	TP53
+Aspirin	treats	Asthma
+Dexamethasone	binds	Diabetes mellitus
+Aspirin	treats	EGFR protein
+APP	binds	Headache
+HTT	associates	Hypertension
+Ibuprofen	binds	TP53
+HTT	treats	TP53
+ACE	associates	Atorvastatin
+Simvastatin	associates	Atorvastatin
+Atorvastatin	treats	Asthma
+BRCA1	treats	Breast cancer
+VEGFA	binds	Simvastatin
+VEGFA	interacts	Breast cancer
+APP	interacts	HIV infection
+CYP2C9	associates	Albumin
+HTT	associates	BRCA1
+Ibuprofen	interacts	Paracetamol
+APP	binds	ACE
+Cisplatin	interacts	Asthma
+Insulin receptor	associates	VEGF receptor
+ACE	associates	INS
+VEGFA	interacts	Simvastatin
+Paracetamol	associates	APP
+Tamoxifen	treats	TP53
+Insulin receptor	interacts	Hypertension
+Hydroxychloroquine	binds	APP
+INS	treats	Huntington's disease
+Hydroxychloroquine	treats	Tuberculosis
+Tamoxifen	treats	HTT
+Metformin	interacts	Tamoxifen
+Atorvastatin	treats	Simvastatin
+Tamoxifen	binds	TNF
+EGFR protein	associates	Osteoarthritis
+VEGFA	interacts	Osteoarthritis
+Aspirin	interacts	Hemoglobin
+Ibuprofen	treats	Paracetamol
+CYP2C9	treats	TNF
+Paracetamol	treats	Insulin receptor
+Albumin	interacts	TP53
+BRCA1	associates	INS
+Cisplatin	binds	Hydroxychloroquine
+Insulin receptor	interacts	Tamoxifen
+TNF	treats	Dexamethasone
+Tamoxifen	binds	HTT
+Simvastatin	treats	Insulin receptor
+Ibuprofen	binds	Paracetamol
+Paracetamol	binds	INS
+INS	interacts	Headache
+Tamoxifen	associates	EGFR
+Dexamethasone	associates	Metformin
+APP	binds	INS
+BRCA1	binds	Alzheimer's disease
+VEGFA	associates	Osteoarthritis
+TP53	associates	Diabetes mellitus
+Metformin	binds	Dexamethasone
+HTT	interacts	Asthma
+CYP2C9	associates	INS
+Cisplatin	interacts	Asthma
+TNF	associates	Asthma
+Metformin	associates	Dexamethasone
+Cisplatin	associates	TNF
+Hydroxychloroquine	treats	TP53
+INS	treats	Insulin receptor
+INS	associates	Paracetamol
+TP53	binds	EGFR
+Ibuprofen	treats	Osteoarthritis
+Simvastatin	treats	HIV infection
+Simvastatin	associates	Breast cancer
+Insulin receptor	associates	TNF
+Hydroxychloroquine	treats	Breast cancer
+Insulin receptor	associates	EGFR protein
+EGFR protein	binds	Asthma
+Tamoxifen	associates	Metformin
+EGFR protein	interacts	Breast cancer
+APP	binds	Dexamethasone
+Cisplatin	binds	Huntington's disease
+Tamoxifen	interacts	APP
+Dexamethasone	interacts	Cisplatin
+Simvastatin	associates	EGFR protein
+APP	binds	Atorvastatin
+VEGFA	binds	Albumin
+TP53	treats	Breast cancer
+Metformin	associates	Hypertension
+INS	treats	Tuberculosis
+APP	binds	Albumin
+ACE	interacts	HIV infection
+INS	interacts	APP
+Aspirin	associates	Diabetes mellitus
+INS	treats	APP
+Albumin	associates	Hemoglobin
+CYP2C9	treats	BRCA1
+Hemoglobin	binds	Insulin receptor
+TNF	interacts	Ibuprofen
+TNF	associates	Breast cancer
+TP53	binds	Albumin
+CYP2C9	binds	Metformin
+APP	associates	TP53
+Hemoglobin	treats	Tamoxifen
+Ibuprofen	associates	Osteoarthritis
+BRCA1	treats	TNF
+Atorvastatin	interacts	Paracetamol
+VEGF receptor	associates	TNF
+CYP2C9	interacts	Metformin
+APP	interacts	EGFR
+Aspirin	associates	HTT
+Cisplatin	treats	Atorvastatin
+CYP2C9	treats	Hemoglobin
+Ibuprofen	binds	BRCA1
+INS	associates	Hypertension
+TP53	binds	Tamoxifen
+VEGFA	associates	Simvastatin
+EGFR	interacts	Headache
+Hydroxychloroquine	treats	APP
+Cisplatin	associates	Huntington's disease
+TP53	binds	APP
+HTT	treats	Ibuprofen
+APP	treats	Breast cancer
+Atorvastatin	associates	Alzheimer's disease
+Ibuprofen	treats	Paracetamol
+Ibuprofen	associates	EGFR
+Paracetamol	interacts	Asthma
+ACE	interacts	TNF
+INS	associates	HTT
+TP53	treats	HTT
+INS	interacts	CYP2C9
+INS	binds	ACE
+Insulin receptor	associates	Metformin
+TNF	associates	APP
+Ibuprofen	treats	Breast cancer
+Ibuprofen	associates	APP
+Paracetamol	interacts	Cisplatin
+Ibuprofen	binds	Hemoglobin
+VEGF receptor	associates	Atorvastatin
+EGFR protein	treats	Hydroxychloroquine
+VEGFA	associates	ACE
+VEGFA	binds	Hemoglobin
+TNF	treats	EGFR protein
+ACE	interacts	TNF
+ACE	treats	BRCA1
+Dexamethasone	interacts	Metformin
+Dexamethasone	associates	TP53
+CYP2C9	treats	APP
+Cisplatin	binds	Simvastatin
+TNF	associates	Paracetamol
+EGFR	interacts	Ibuprofen
+TP53	treats	Tuberculosis
+EGFR	binds	Breast cancer
+Atorvastatin	binds	APP
+Tamoxifen	interacts	TNF
+Albumin	associates	Huntington's disease
+HTT	interacts	BRCA1
+Ibuprofen	associates	Atorvastatin
+CYP2C9	binds	Ibuprofen
+Atorvastatin	treats	Aspirin
+APP	treats	Huntington's disease
+TNF	binds	EGFR
+Hemoglobin	binds	EGFR protein
+Tamoxifen	binds	Atorvastatin
+Cisplatin	treats	Simvastatin
+Cisplatin	binds	TNF
+TP53	treats	EGFR protein
+Hydroxychloroquine	associates	BRCA1
+INS	binds	EGFR protein
+CYP2C9	associates	Atorvastatin
+EGFR protein	treats	HIV infection
+Dexamethasone	treats	HTT
+Simvastatin	binds	Alzheimer's disease
+Paracetamol	treats	BRCA1
+HTT	associates	Dexamethasone
+APP	interacts	HIV infection
+TNF	associates	BRCA1
+VEGFA	associates	Tuberculosis
+TP53	associates	INS
+Paracetamol	treats	Osteoarthritis
+EGFR	treats	Headache
+Albumin	associates	TNF
+Metformin	binds	Cisplatin
+APP	associates	Simvastatin
+BRCA1	interacts	Diabetes mellitus
+BRCA1	associates	Ibuprofen
+Atorvastatin	binds	Asthma
+ACE	binds	Osteoarthritis
+BRCA1	interacts	EGFR protein
+TP53	associates	Hemoglobin
+ACE	binds	Insulin receptor
+CYP2C9	associates	VEGFA
+Paracetamol	associates	Albumin
+Simvastatin	binds	INS
+INS	interacts	Tuberculosis
+EGFR	binds	HIV infection
+Dexamethasone	binds	Metformin
+Insulin receptor	interacts	TNF
+EGFR	associates	Alzheimer's disease
+EGFR protein	binds	CYP2C9
+Ibuprofen	binds	APP
+CYP2C9	associates	Aspirin
+BRCA1	associates	Aspirin
+Hydroxychloroquine	associates	Paracetamol
+Atorvastatin	treats	Aspirin
+BRCA1	interacts	Ibuprofen
+Tamoxifen	associates	EGFR protein
+INS	treats	Diabetes mellitus
+Ibuprofen	binds	Atorvastatin
+Hemoglobin	treats	Huntington's disease
+ACE	binds	CYP2C9
+Simvastatin	treats	Breast cancer
+CYP2C9	interacts	Aspirin
+Albumin	associates	BRCA1
+Cisplatin	binds	Alzheimer's disease
+Atorvastatin	treats	Diabetes mellitus
+APP	treats	Metformin
+TNF	interacts	Atorvastatin
+Albumin	treats	Osteoarthritis
+BRCA1	treats	Tuberculosis
+VEGFA	treats	Diabetes mellitus
+EGFR protein	treats	VEGF receptor
+INS	interacts	Hemoglobin
+Aspirin	treats	Diabetes mellitus
+Hydroxychloroquine	interacts	Paracetamol
+Metformin	treats	VEGFA
+VEGF receptor	binds	VEGFA
+Metformin	interacts	BRCA1
+EGFR	treats	EGFR protein
+Hydroxychloroquine	treats	TP53
+Hemoglobin	treats	APP
+Albumin	interacts	Atorvastatin
+EGFR protein	binds	VEGF receptor
+Paracetamol	interacts	Hydroxychloroquine
+Aspirin	treats	Ibuprofen
+Insulin receptor	binds	Huntington's disease
+Atorvastatin	interacts	HTT
+Tamoxifen	associates	TP53
+Albumin	interacts	Diabetes mellitus
+Tamoxifen	binds	HIV infection
+Hydroxychloroquine	associates	Dexamethasone
+TNF	treats	EGFR
+Aspirin	interacts	Alzheimer's disease
+APP	binds	Asthma
+BRCA1	associates	Cisplatin
+Albumin	treats	Diabetes mellitus
+Albumin	treats	Atorvastatin
+Ibuprofen	associates	Asthma
+ACE	interacts	EGFR protein
+Simvastatin	associates	Ibuprofen
+Tamoxifen	binds	TNF
+VEGF receptor	treats	Hydroxychloroquine
+INS	associates	ACE
+Hydroxychloroquine	interacts	EGFR protein
+EGFR protein	treats	Breast cancer
+TNF	associates	Insulin receptor
+Albumin	treats	Cisplatin
+HTT	associates	Insulin receptor
+INS	treats	Metformin
+Hydroxychloroquine	binds	Breast cancer
+Tamoxifen	interacts	Osteoarthritis
+HTT	treats	Hydroxychloroquine
+Atorvastatin	treats	Ibuprofen
+Hemoglobin	treats	Cisplatin
+VEGF receptor	binds	BRCA1
+HTT	interacts	Cisplatin
+Cisplatin	binds	ACE
+Insulin receptor	binds	BRCA1
+Dexamethasone	binds	VEGF receptor
+Metformin	binds	HIV infection
+Hydroxychloroquine	associates	Huntington's disease
+Insulin receptor	binds	INS
+EGFR protein	binds	Dexamethasone
+Dexamethasone	treats	BRCA1
+Atorvastatin	treats	Tuberculosis
+Albumin	treats	Osteoarthritis
+Metformin	associates	EGFR protein
+Paracetamol	associates	VEGFA
+Paracetamol	treats	Insulin receptor
+Insulin receptor	binds	EGFR
+EGFR protein	interacts	Simvastatin
+Cisplatin	binds	TNF
+TP53	binds	Hemoglobin
+Aspirin	treats	Metformin
+Albumin	binds	Huntington's disease
+BRCA1	interacts	INS
+CYP2C9	treats	Tuberculosis
+APP	treats	Breast cancer
+VEGFA	treats	Dexamethasone
+ACE	interacts	Metformin
+Hydroxychloroquine	interacts	Hemoglobin
+INS	treats	Atorvastatin
+HTT	interacts	Dexamethasone
+Atorvastatin	associates	Asthma
+VEGFA	interacts	Headache
+Hemoglobin	treats	Paracetamol
+Dexamethasone	associates	Alzheimer's disease
+Insulin receptor	interacts	Diabetes mellitus
+ACE	interacts	Huntington's disease
+EGFR	treats	Aspirin
+APP	interacts	Alzheimer's disease
+Dexamethasone	treats	TNF
+INS	binds	Osteoarthritis
+Albumin	interacts	EGFR protein
+CYP2C9	interacts	Atorvastatin
+Paracetamol	associates	Metformin
+VEGFA	interacts	Osteoarthritis
+EGFR	interacts	VEGFA
+Aspirin	binds	EGFR
+BRCA1	interacts	Alzheimer's disease
+EGFR	treats	CYP2C9
+TP53	associates	Hypertension
+CYP2C9	binds	Headache
+TNF	treats	Albumin
+Hemoglobin	associates	Hypertension
+TNF	associates	Albumin
+Atorvastatin	interacts	ACE
+VEGFA	associates	Hypertension
+Atorvastatin	binds	Albumin
+Ibuprofen	interacts	Huntington's disease
+VEGFA	treats	INS
+VEGF receptor	interacts	Huntington's disease
+Cisplatin	treats	HTT
+VEGF receptor	binds	Dexamethasone
+Cisplatin	binds	Huntington's disease
+Hydroxychloroquine	interacts	EGFR protein
+APP	interacts	HIV infection
+APP	associates	VEGFA
+INS	binds	Cisplatin
+TNF	interacts	Atorvastatin
+Atorvastatin	binds	HIV infection
+Tamoxifen	associates	VEGFA
+Insulin receptor	associates	HTT
+Ibuprofen	interacts	Tamoxifen
+VEGFA	binds	Tamoxifen
+Dexamethasone	associates	Osteoarthritis
+HTT	associates	Tuberculosis
+Aspirin	treats	Cisplatin
+Paracetamol	treats	Cisplatin
+INS	interacts	ACE
+EGFR protein	interacts	Breast cancer
+Dexamethasone	associates	Hypertension
+EGFR protein	binds	Breast cancer
+Hemoglobin	binds	VEGF receptor
+Tamoxifen	associates	INS
+Tamoxifen	treats	Insulin receptor
+Ibuprofen	treats	Albumin
+APP	interacts	Tuberculosis
+VEGF receptor	interacts	HTT
+ACE	treats	VEGFA
+EGFR	treats	Asthma
+VEGF receptor	binds	Paracetamol
+HTT	binds	VEGFA
+Albumin	interacts	Aspirin
+Aspirin	associates	Breast cancer
+Simvastatin	interacts	Tamoxifen
+VEGF receptor	treats	CYP2C9
+Atorvastatin	associates	CYP2C9
+BRCA1	treats	Hemoglobin
+Paracetamol	binds	Alzheimer's disease
+Ibuprofen	interacts	Atorvastatin
+Atorvastatin	associates	TP53
+Aspirin	interacts	Cisplatin
+Simvastatin	binds	HTT
+HTT	treats	Headache
+Cisplatin	treats	EGFR
+Simvastatin	binds	Headache
+ACE	binds	Hemoglobin
+Dexamethasone	binds	Huntington's disease
+VEGFA	binds	Metformin
+TP53	treats	Headache
+Hemoglobin	treats	INS
+Tamoxifen	treats	Ibuprofen
+Insulin receptor	associates	Headache
+INS	interacts	Headache
+Tamoxifen	associates	Aspirin
+Metformin	binds	APP
+Hemoglobin	treats	Paracetamol
+TNF	treats	Simvastatin
+Aspirin	binds	APP
+VEGF receptor	binds	Osteoarthritis
+HTT	interacts	HIV infection
+Ibuprofen	treats	Asthma
+Metformin	treats	Alzheimer's disease
+Hydroxychloroquine	binds	Huntington's disease
+Cisplatin	binds	Huntington's disease
+Atorvastatin	binds	Insulin receptor
+INS	binds	Hydroxychloroquine
+HTT	interacts	Asthma
+Dexamethasone	associates	Aspirin
+Metformin	associates	Diabetes mellitus
+Metformin	treats	VEGF receptor
+HTT	associates	Metformin
+TNF	interacts	Insulin receptor
+Ibuprofen	treats	Huntington's disease
+Tamoxifen	binds	INS
+BRCA1	binds	Simvastatin
+Simvastatin	treats	VEGFA
+VEGFA	treats	Headache
+VEGFA	interacts	Alzheimer's disease
+Simvastatin	associates	Breast cancer
+Tamoxifen	interacts	Tuberculosis
+Tamoxifen	binds	Osteoarthritis
+HTT	treats	BRCA1
+Cisplatin	treats	EGFR protein
+CYP2C9	associates	Headache
+EGFR	treats	ACE
+INS	associates	APP
+VEGFA	treats	Insulin receptor
+INS	interacts	TNF
+Tamoxifen	binds	Headache
+CYP2C9	associates	Hemoglobin
+Insulin receptor	associates	Ibuprofen
+Dexamethasone	treats	Simvastatin
+Metformin	treats	Paracetamol
+Hemoglobin	treats	Alzheimer's disease
+Atorvastatin	treats	Osteoarthritis
+EGFR	binds	INS
+Metformin	binds	APP
+Insulin receptor	associates	Hydroxychloroquine
+TNF	interacts	Ibuprofen
+INS	interacts	EGFR protein
+VEGFA	associates	Headache
+Atorvastatin	treats	HIV infection
+HTT	associates	BRCA1
+HTT	treats	Headache
+EGFR	interacts	INS
+Hydroxychloroquine	treats	Insulin receptor
+CYP2C9	interacts	Insulin receptor
+Aspirin	binds	EGFR protein
+Albumin	interacts	Metformin
+ACE	associates	EGFR protein
+EGFR	treats	Alzheimer's disease
+ACE	associates	Ibuprofen
+Dexamethasone	interacts	Tamoxifen
+ACE	binds	VEGF receptor
+INS	treats	Huntington's disease
+VEGFA	interacts	Osteoarthritis
+EGFR	binds	Aspirin
+EGFR protein	associates	Ibuprofen
+EGFR	associates	Hemoglobin
+TNF	treats	EGFR protein
+APP	associates	ACE
+VEGF receptor	interacts	Metformin
+VEGF receptor	associates	Simvastatin
+Paracetamol	treats	Metformin
+EGFR protein	treats	Dexamethasone
+Metformin	binds	Dexamethasone
+INS	binds	Aspirin
+Dexamethasone	associates	Hydroxychloroquine
+EGFR	associates	BRCA1
+Hydroxychloroquine	treats	Tamoxifen
+Hemoglobin	binds	Albumin
+HTT	associates	Hypertension
+Albumin	binds	Tuberculosis
+Atorvastatin	interacts	APP
+Hydroxychloroquine	binds	APP
+Insulin receptor	binds	Tamoxifen
+Albumin	binds	Huntington's disease
+INS	binds	Paracetamol
+Hemoglobin	binds	Simvastatin
+Cisplatin	binds	Dexamethasone
+Tamoxifen	associates	Ibuprofen
+BRCA1	treats	EGFR
+BRCA1	interacts	Alzheimer's disease
+Tamoxifen	treats	EGFR protein
+VEGFA	treats	Asthma
+TNF	interacts	Albumin
+Atorvastatin	binds	TNF
+EGFR	associates	Albumin
+Atorvastatin	interacts	Diabetes mellitus
+Insulin receptor	interacts	Dexamethasone
+TNF	associates	Metformin
+APP	interacts	Insulin receptor
+TNF	associates	BRCA1
+ACE	binds	Albumin
+CYP2C9	treats	Albumin
+Paracetamol	associates	Ibuprofen
+Hemoglobin	treats	Albumin
+Aspirin	interacts	HIV infection
+Cisplatin	interacts	Hemoglobin
+Hemoglobin	associates	Aspirin
+TP53	associates	Aspirin
+Tamoxifen	binds	Metformin
+VEGF receptor	treats	Simvastatin
+Insulin receptor	interacts	Hemoglobin
+EGFR	binds	TP53
+Albumin	binds	Hypertension
+Paracetamol	treats	Asthma
+HTT	associates	Albumin
+Dexamethasone	binds	TP53
+Atorvastatin	interacts	Hemoglobin
+Dexamethasone	associates	Tuberculosis
+CYP2C9	binds	HIV infection
+VEGFA	interacts	Hemoglobin
+Aspirin	associates	HTT
+Cisplatin	interacts	Atorvastatin
+VEGF receptor	associates	Albumin
+Hydroxychloroquine	treats	Atorvastatin
+Metformin	associates	Headache
+EGFR	binds	TP53
+Albumin	binds	Hemoglobin
+Hemoglobin	associates	Metformin
+Hemoglobin	associates	Headache
+BRCA1	treats	Ibuprofen
+BRCA1	binds	EGFR
+Atorvastatin	interacts	TP53
+TP53	binds	Huntington's disease
+Hemoglobin	treats	EGFR protein
+Paracetamol	associates	HIV infection
+Tamoxifen	binds	EGFR
+APP	associates	Atorvastatin
+Dexamethasone	interacts	ACE
+EGFR protein	interacts	VEGFA
+EGFR protein	interacts	Diabetes mellitus
+Dexamethasone	associates	BRCA1
+APP	treats	Huntington's disease
+VEGF receptor	associates	TNF
+Aspirin	binds	CYP2C9
+VEGFA	binds	Asthma
+APP	treats	Diabetes mellitus
+ACE	associates	Hypertension
+Paracetamol	treats	EGFR
+CYP2C9	treats	Dexamethasone
+Dexamethasone	binds	VEGFA
+Paracetamol	associates	Alzheimer's disease
+Cisplatin	binds	Aspirin
+ACE	interacts	TP53
+Cisplatin	treats	Osteoarthritis
+Hydroxychloroquine	binds	HIV infection
+Cisplatin	treats	Asthma
+VEGFA	treats	Cisplatin
+VEGF receptor	treats	TP53
+Insulin receptor	associates	Albumin
+Albumin	interacts	Hemoglobin
+EGFR protein	associates	Hemoglobin
+Hydroxychloroquine	interacts	Osteoarthritis
+Cisplatin	associates	TNF
+Aspirin	associates	Albumin
+Tamoxifen	associates	ACE
+VEGFA	associates	HIV infection
+VEGF receptor	associates	Headache
+VEGF receptor	binds	Hemoglobin
+TNF	treats	Tamoxifen
+EGFR protein	binds	Hypertension
+Aspirin	interacts	EGFR
+Hemoglobin	binds	VEGFA
+EGFR protein	interacts	Cisplatin
+EGFR protein	treats	TP53
+Albumin	treats	TP53
+TNF	associates	Huntington's disease
+Paracetamol	treats	Hydroxychloroquine
+Dexamethasone	associates	HTT
+Hydroxychloroquine	associates	TNF
+VEGFA	interacts	Osteoarthritis
+VEGFA	treats	BRCA1
+VEGF receptor	interacts	Simvastatin
+Albumin	binds	INS
+Ibuprofen	treats	Tamoxifen
+Cisplatin	binds	Osteoarthritis
+Tamoxifen	treats	VEGFA
+Cisplatin	interacts	Aspirin
+VEGFA	associates	Atorvastatin
+INS	associates	Hypertension
+Aspirin	interacts	Dexamethasone
+BRCA1	interacts	EGFR protein
+Tamoxifen	interacts	Dexamethasone
+Tamoxifen	associates	Insulin receptor
+VEGF receptor	binds	Insulin receptor
+Tamoxifen	treats	Atorvastatin
+Simvastatin	treats	ACE
+EGFR	associates	ACE
+Albumin	binds	Tuberculosis
+EGFR protein	binds	Insulin receptor
+Aspirin	interacts	Atorvastatin
+Insulin receptor	interacts	Tamoxifen
+Metformin	associates	VEGF receptor
+Paracetamol	interacts	Hydroxychloroquine
+ACE	treats	Asthma
+TP53	associates	Osteoarthritis
+Tamoxifen	binds	Insulin receptor
+Ibuprofen	binds	Hypertension
+Metformin	binds	APP
+Dexamethasone	interacts	INS
+Metformin	binds	Cisplatin
+INS	treats	Insulin receptor
+INS	treats	Ibuprofen
+Atorvastatin	interacts	Insulin receptor
+Albumin	associates	Cisplatin
+BRCA1	treats	VEGFA
+EGFR	binds	Dexamethasone
+TP53	interacts	Hydroxychloroquine
+Simvastatin	associates	Tamoxifen
+VEGFA	associates	Dexamethasone
+VEGF receptor	binds	Albumin
+CYP2C9	interacts	EGFR
+CYP2C9	treats	Simvastatin
+Metformin	interacts	HIV infection
+Tamoxifen	binds	Hypertension
+Cisplatin	interacts	Asthma
+HTT	binds	VEGFA
+Paracetamol	treats	Aspirin
+Hemoglobin	treats	Albumin
+HTT	binds	Insulin receptor
+Dexamethasone	interacts	Albumin
+Albumin	binds	Cisplatin
+Dexamethasone	associates	VEGFA
+Dexamethasone	interacts	ACE
+Simvastatin	associates	TNF
+BRCA1	associates	APP
+Ibuprofen	associates	Osteoarthritis
+CYP2C9	interacts	Aspirin
+Insulin receptor	associates	Atorvastatin
+VEGF receptor	treats	Cisplatin
+Insulin receptor	binds	EGFR
+CYP2C9	associates	BRCA1
+VEGF receptor	associates	Ibuprofen
+Cisplatin	treats	Hypertension
+Cisplatin	interacts	ACE
+Simvastatin	treats	TP53
+Metformin	associates	BRCA1
+TNF	interacts	EGFR protein
+TNF	treats	BRCA1
+EGFR protein	binds	Insulin receptor
+INS	binds	Cisplatin
+ACE	interacts	Insulin receptor
+Hemoglobin	treats	TNF
+TP53	interacts	TNF
+APP	interacts	Diabetes mellitus
+TP53	treats	VEGFA
+EGFR protein	interacts	HTT
+CYP2C9	binds	Paracetamol
+HTT	interacts	EGFR protein
+EGFR protein	interacts	Ibuprofen
+Albumin	interacts	ACE
+TNF	associates	Alzheimer's disease
+VEGF receptor	binds	HTT
+ACE	interacts	Atorvastatin
+Dexamethasone	treats	EGFR
+APP	treats	Atorvastatin
+Hydroxychloroquine	associates	INS
+Aspirin	binds	TP53
+EGFR	interacts	Insulin receptor
+APP	associates	Hemoglobin
+Hemoglobin	associates	Atorvastatin
+Hydroxychloroquine	binds	Hypertension
+CYP2C9	associates	Tamoxifen
+APP	binds	Diabetes mellitus
+EGFR protein	associates	Cisplatin
+Hemoglobin	treats	Huntington's disease
+VEGF receptor	associates	Dexamethasone
+Paracetamol	treats	INS
+Insulin receptor	binds	Alzheimer's disease
+CYP2C9	treats	Diabetes mellitus
+EGFR	associates	Dexamethasone
+CYP2C9	treats	Tamoxifen
+BRCA1	treats	Diabetes mellitus
+Atorvastatin	treats	VEGF receptor
+ACE	treats	VEGF receptor
+Ibuprofen	associates	Huntington's disease
+VEGFA	interacts	CYP2C9
+Cisplatin	associates	Insulin receptor
+Paracetamol	associates	Asthma
+Metformin	associates	Dexamethasone
+Metformin	associates	INS
+Dexamethasone	treats	Tamoxifen
+ACE	interacts	Atorvastatin
+Simvastatin	associates	Insulin receptor
+VEGFA	interacts	Tuberculosis
+EGFR	treats	Simvastatin
+Atorvastatin	binds	Albumin
+EGFR	interacts	Huntington's disease
+Simvastatin	interacts	EGFR
+Tamoxifen	interacts	INS
+Aspirin	binds	Tuberculosis
+Hemoglobin	binds	CYP2C9
+Atorvastatin	binds	Simvastatin
+BRCA1	associates	Huntington's disease
+Metformin	binds	ACE
+Hydroxychloroquine	interacts	Alzheimer's disease
+Hydroxychloroquine	binds	Diabetes mellitus
+TP53	treats	Tuberculosis
+EGFR	interacts	Insulin receptor
+Insulin receptor	treats	Tuberculosis
+VEGF receptor	associates	Tuberculosis
+Cisplatin	associates	Hydroxychloroquine
+BRCA1	treats	Simvastatin
+VEGF receptor	binds	Simvastatin
+ACE	interacts	Alzheimer's disease
+VEGF receptor	interacts	Hypertension
+Ibuprofen	treats	HTT
+Simvastatin	interacts	Hemoglobin
+ACE	interacts	APP
+EGFR protein	interacts	HTT
+Cisplatin	interacts	ACE
+EGFR	treats	HTT
+TP53	binds	Paracetamol
+Albumin	interacts	Metformin
+Insulin receptor	associates	VEGFA
+Hydroxychloroquine	treats	Insulin receptor
+Hemoglobin	associates	EGFR protein
+CYP2C9	associates	HIV infection
+Albumin	binds	Cisplatin
+BRCA1	interacts	Hydroxychloroquine
+Tamoxifen	associates	Hemoglobin
+Albumin	binds	Huntington's disease
+EGFR protein	associates	VEGFA
+EGFR protein	associates	VEGF receptor
+TP53	associates	EGFR protein
+Paracetamol	interacts	Simvastatin
+Hydroxychloroquine	treats	EGFR protein
+Aspirin	interacts	Simvastatin
+Hemoglobin	associates	HIV infection
+Cisplatin	interacts	Metformin
+BRCA1	binds	Simvastatin
+Simvastatin	interacts	HIV infection
+TNF	treats	HTT
+Paracetamol	associates	VEGF receptor
+TP53	interacts	Aspirin
+CYP2C9	binds	Cisplatin
+Albumin	interacts	Asthma
+TP53	associates	Metformin
+EGFR	binds	Albumin
+Metformin	interacts	APP
+Simvastatin	treats	Hydroxychloroquine
+CYP2C9	associates	Tuberculosis
+TP53	treats	Atorvastatin
+Paracetamol	associates	Insulin receptor
+HTT	binds	Atorvastatin
+TNF	binds	Huntington's disease
+Tamoxifen	treats	TP53
+Tamoxifen	binds	HIV infection
+Aspirin	interacts	Huntington's disease
+Albumin	binds	VEGFA
+Tamoxifen	binds	APP
+BRCA1	binds	APP
+Tamoxifen	treats	VEGF receptor
+CYP2C9	binds	TP53
+TNF	interacts	Hypertension
+Paracetamol	associates	Breast cancer
+BRCA1	treats	Cisplatin
+Ibuprofen	associates	Alzheimer's disease
+EGFR protein	treats	Diabetes mellitus
+Simvastatin	binds	Tuberculosis
+Ibuprofen	interacts	EGFR
+Aspirin	interacts	Albumin
+Paracetamol	interacts	Ibuprofen
+Hemoglobin	interacts	BRCA1
+CYP2C9	binds	BRCA1
+Paracetamol	binds	Osteoarthritis
+Paracetamol	associates	Huntington's disease
+INS	associates	Hydroxychloroquine
+Hemoglobin	interacts	Alzheimer's disease
+Hemoglobin	binds	HTT
+ACE	associates	Huntington's disease
+Metformin	interacts	Osteoarthritis
+EGFR	binds	Paracetamol
+Simvastatin	associates	EGFR protein
+Metformin	interacts	Cisplatin
+Ibuprofen	binds	Asthma
+ACE	associates	Hypertension
+ACE	treats	Tuberculosis
+Hydroxychloroquine	binds	Metformin
+APP	associates	Metformin
+TNF	treats	Simvastatin
+INS	interacts	Aspirin
+Simvastatin	associates	VEGF receptor
+CYP2C9	treats	TP53
+Cisplatin	associates	Ibuprofen
+Atorvastatin	associates	VEGFA
+EGFR protein	interacts	Headache
+Atorvastatin	binds	Albumin
+EGFR	binds	VEGF receptor
+Insulin receptor	binds	Hemoglobin
+Aspirin	treats	ACE
+Atorvastatin	binds	APP
+HTT	treats	Cisplatin
+Simvastatin	binds	Tamoxifen
+VEGF receptor	associates	HTT
+Tamoxifen	binds	Atorvastatin
+INS	treats	Headache
+Insulin receptor	treats	HIV infection
+BRCA1	interacts	Asthma
+Tamoxifen	treats	Aspirin
+Metformin	interacts	Cisplatin
+HTT	associates	INS
+INS	binds	ACE
+Albumin	interacts	Paracetamol
+Aspirin	binds	TP53
+CYP2C9	binds	Hypertension
+TP53	associates	EGFR
+BRCA1	associates	VEGF receptor
+Metformin	binds	EGFR
+Metformin	binds	Diabetes mellitus
+BRCA1	treats	APP
+EGFR	interacts	Hemoglobin
+Cisplatin	binds	VEGF receptor
+EGFR	treats	VEGF receptor
+Cisplatin	interacts	VEGFA
+Atorvastatin	treats	EGFR protein
+Tamoxifen	binds	Hydroxychloroquine
+VEGF receptor	treats	Asthma
+Cisplatin	treats	HIV infection
+Ibuprofen	binds	INS
+Atorvastatin	binds	ACE
+Tamoxifen	treats	Diabetes mellitus
+CYP2C9	associates	Metformin
+ACE	associates	EGFR protein
+APP	binds	TNF
+Tamoxifen	associates	Ibuprofen
+Cisplatin	interacts	CYP2C9
+Insulin receptor	treats	Headache
+Hemoglobin	treats	Huntington's disease
+Dexamethasone	interacts	Osteoarthritis
+Metformin	interacts	Tamoxifen
+EGFR	associates	BRCA1
+Albumin	associates	Dexamethasone
+Dexamethasone	associates	Cisplatin
+Simvastatin	interacts	Cisplatin
+Atorvastatin	binds	Diabetes mellitus
+Paracetamol	treats	ACE
+Insulin receptor	interacts	Osteoarthritis
+INS	binds	ACE
+EGFR	associates	Huntington's disease
+HTT	interacts	HIV infection
+Ibuprofen	binds	Simvastatin
+Albumin	treats	Asthma
+TNF	binds	APP
+VEGFA	interacts	Cisplatin
+HTT	interacts	Tuberculosis
+Ibuprofen	binds	Albumin
+Hemoglobin	binds	Metformin
+TNF	associates	Osteoarthritis
+EGFR	interacts	Tamoxifen
+ACE	binds	Ibuprofen
+Hemoglobin	binds	TNF
+CYP2C9	interacts	Diabetes mellitus
+TP53	binds	HTT
+EGFR protein	associates	Osteoarthritis
+INS	interacts	Tamoxifen
+Dexamethasone	associates	INS
+Hydroxychloroquine	treats	VEGF receptor
+Albumin	associates	Alzheimer's disease
+Atorvastatin	binds	APP
+CYP2C9	interacts	TNF
+HTT	associates	Aspirin
+Ibuprofen	associates	Hemoglobin
+TP53	binds	Paracetamol
+Hydroxychloroquine	interacts	Albumin
+Insulin receptor	associates	Tamoxifen
+Albumin	binds	Tamoxifen
+EGFR	associates	Cisplatin
+TP53	treats	Simvastatin
+BRCA1	binds	Dexamethasone
+HTT	binds	Metformin
+BRCA1	associates	Hypertension
+Atorvastatin	associates	CYP2C9
+VEGF receptor	treats	Asthma
+APP	interacts	Alzheimer's disease
+EGFR	binds	ACE
+Tamoxifen	treats	Hydroxychloroquine
+Paracetamol	treats	Insulin receptor
+ACE	associates	HIV infection
+APP	associates	Hydroxychloroquine
+Ibuprofen	interacts	Hypertension
+Dexamethasone	associates	Insulin receptor
+CYP2C9	interacts	Atorvastatin
+INS	binds	Hydroxychloroquine
+Albumin	associates	HTT
+Atorvastatin	associates	Hemoglobin
+Albumin	interacts	APP
+Hemoglobin	treats	Cisplatin
+TP53	associates	Ibuprofen
+Albumin	binds	Diabetes mellitus
+INS	treats	Hypertension
+BRCA1	treats	Metformin
+BRCA1	binds	Simvastatin
+Ibuprofen	interacts	Simvastatin
+TP53	binds	Headache
+TNF	binds	VEGF receptor
+Hemoglobin	interacts	Ibuprofen
+Simvastatin	binds	Tuberculosis
+Cisplatin	treats	HTT
+Metformin	associates	BRCA1
+Tamoxifen	associates	Paracetamol
+TNF	treats	Osteoarthritis
+Hemoglobin	binds	Tamoxifen
+INS	associates	Asthma
+Hydroxychloroquine	treats	Tuberculosis
+Atorvastatin	binds	TNF
+BRCA1	interacts	VEGFA
+EGFR protein	treats	Osteoarthritis
+VEGFA	binds	Paracetamol
+APP	treats	Osteoarthritis
+HTT	associates	Tamoxifen
+Insulin receptor	associates	INS
+Ibuprofen	binds	Albumin
+INS	associates	Simvastatin
+Ibuprofen	interacts	EGFR protein
+Atorvastatin	treats	Hemoglobin
+Insulin receptor	associates	Osteoarthritis
+Insulin receptor	associates	BRCA1
+Simvastatin	binds	INS
+VEGFA	treats	APP
+Paracetamol	interacts	Asthma
+HTT	associates	Metformin
+TNF	interacts	Alzheimer's disease
+TNF	interacts	HTT
+Metformin	treats	Albumin
+Aspirin	interacts	BRCA1
+Hemoglobin	treats	TP53
+ACE	treats	Tamoxifen
+Hydroxychloroquine	interacts	Atorvastatin
+BRCA1	binds	Paracetamol
+EGFR protein	treats	Hemoglobin
+Hydroxychloroquine	treats	Ibuprofen
+Aspirin	binds	Osteoarthritis
+Hemoglobin	associates	BRCA1
+Metformin	treats	Hydroxychloroquine
+ACE	binds	Insulin receptor
+Hydroxychloroquine	binds	Dexamethasone
+Simvastatin	associates	EGFR
+Cisplatin	treats	Ibuprofen
+Hemoglobin	interacts	Breast cancer
+Dexamethasone	treats	Huntington's disease
+EGFR	interacts	Paracetamol
+Atorvastatin	interacts	Breast cancer
+APP	interacts	Ibuprofen
+Hydroxychloroquine	associates	VEGF receptor
+Insulin receptor	binds	Simvastatin
+EGFR protein	associates	CYP2C9
+TNF	associates	Cisplatin
+Simvastatin	treats	Huntington's disease
+Cisplatin	interacts	Hypertension
+Ibuprofen	treats	Osteoarthritis
+Hydroxychloroquine	interacts	TNF
+EGFR	binds	Alzheimer's disease
+Hydroxychloroquine	associates	EGFR protein
+Hydroxychloroquine	associates	Ibuprofen
+Albumin	associates	Simvastatin
+Simvastatin	associates	Atorvastatin
+TP53	associates	Dexamethasone
+ACE	treats	HIV infection
+Cisplatin	associates	Aspirin
+ACE	associates	HIV infection
+VEGFA	associates	Hypertension
+TNF	binds	HIV infection
+EGFR protein	associates	Asthma
+Insulin receptor	associates	Asthma
+BRCA1	treats	Asthma
+Dexamethasone	binds	CYP2C9
+Cisplatin	associates	Insulin receptor
+Aspirin	interacts	Paracetamol
+APP	binds	HIV infection
+EGFR	binds	Breast cancer
+CYP2C9	interacts	Insulin receptor
+Ibuprofen	interacts	Hydroxychloroquine
+VEGFA	associates	ACE
+Albumin	interacts	HTT
+INS	treats	EGFR protein
+ACE	interacts	INS
+Ibuprofen	binds	Hydroxychloroquine
+Paracetamol	binds	CYP2C9
+Metformin	interacts	EGFR
+BRCA1	associates	Aspirin
+BRCA1	binds	Albumin
+TNF	associates	EGFR protein
+Cisplatin	treats	Osteoarthritis
+VEGF receptor	treats	EGFR
+Paracetamol	treats	Metformin
+INS	interacts	Cisplatin
+Albumin	binds	HTT
+BRCA1	associates	HIV infection
+INS	interacts	Atorvastatin
+INS	treats	Insulin receptor
+Insulin receptor	treats	Tamoxifen
+EGFR	binds	Hypertension
+Dexamethasone	binds	EGFR protein
+HTT	binds	Paracetamol
+Ibuprofen	associates	Alzheimer's disease
+BRCA1	associates	Atorvastatin
+INS	binds	Hemoglobin
+Hydroxychloroquine	treats	Insulin receptor
+BRCA1	associates	VEGFA
+HTT	interacts	Tamoxifen
+Cisplatin	associates	Dexamethasone
+Tamoxifen	treats	Simvastatin
+Dexamethasone	interacts	VEGF receptor
+TP53	binds	APP
+EGFR protein	interacts	Albumin
+TP53	binds	EGFR
+EGFR	binds	Ibuprofen
+Aspirin	associates	APP
+HTT	associates	Albumin
+VEGF receptor	associates	EGFR
+Metformin	associates	Hemoglobin
+VEGF receptor	interacts	Ibuprofen
+ACE	interacts	Insulin receptor
+Insulin receptor	associates	Breast cancer
+EGFR	binds	Aspirin
+Hydroxychloroquine	binds	VEGFA
+Hemoglobin	interacts	Ibuprofen
+Insulin receptor	associates	Tamoxifen
+Simvastatin	binds	Dexamethasone
+TP53	associates	Headache
+APP	treats	Tuberculosis
+Ibuprofen	associates	Headache
+Albumin	associates	Diabetes mellitus
+Insulin receptor	binds	Tamoxifen
+Simvastatin	binds	APP
+BRCA1	interacts	Ibuprofen
+EGFR	interacts	Osteoarthritis
+VEGFA	interacts	CYP2C9
+Aspirin	interacts	HTT
+APP	associates	Atorvastatin
+HTT	associates	Headache
+Hydroxychloroquine	interacts	Simvastatin
+Albumin	associates	HTT
+Dexamethasone	treats	Albumin
+ACE	interacts	BRCA1
+TNF	binds	Hypertension
+TNF	binds	Atorvastatin
+Albumin	associates	BRCA1
+EGFR protein	interacts	Ibuprofen
+Paracetamol	binds	TNF
+Paracetamol	interacts	Hydroxychloroquine
+TNF	interacts	Tuberculosis
+Metformin	treats	Diabetes mellitus
+Simvastatin	treats	BRCA1
+Ibuprofen	binds	Albumin
+VEGF receptor	interacts	Dexamethasone
+CYP2C9	interacts	Alzheimer's disease
+Aspirin	treats	TNF
+Atorvastatin	associates	Metformin
+Paracetamol	binds	Dexamethasone
+INS	associates	Ibuprofen
+HTT	associates	INS
+Simvastatin	binds	Huntington's disease
+Tamoxifen	binds	Cisplatin
+TP53	associates	TNF
+Ibuprofen	associates	Huntington's disease
+Tamoxifen	associates	Breast cancer
+CYP2C9	associates	VEGF receptor
+EGFR	binds	Albumin
+EGFR	treats	Dexamethasone
+Dexamethasone	associates	Breast cancer
+INS	treats	ACE
+EGFR	treats	Hemoglobin
+Simvastatin	binds	Asthma
+ACE	associates	Hypertension
+TNF	interacts	Cisplatin
+Dexamethasone	binds	BRCA1
+ACE	interacts	VEGFA
+Insulin receptor	associates	Headache
+Cisplatin	interacts	Dexamethasone
+Aspirin	binds	Paracetamol
+TNF	associates	Cisplatin
+ACE	binds	Tuberculosis
+Albumin	binds	Insulin receptor
+CYP2C9	interacts	Tamoxifen
+BRCA1	treats	Asthma
+APP	binds	Osteoarthritis
+EGFR	treats	Huntington's disease
+CYP2C9	interacts	Breast cancer
+EGFR	interacts	Aspirin
+ACE	treats	BRCA1
+Aspirin	interacts	Dexamethasone
+Cisplatin	treats	Tamoxifen
+Simvastatin	treats	VEGF receptor
+VEGF receptor	associates	INS
+Albumin	treats	Metformin
+Simvastatin	binds	Tamoxifen
+INS	associates	Hemoglobin
+INS	associates	VEGF receptor
+Atorvastatin	interacts	Hemoglobin
+TP53	treats	HTT
+EGFR protein	interacts	Osteoarthritis
+EGFR	binds	Tamoxifen
+ACE	associates	Hypertension
+Tamoxifen	interacts	TP53
+EGFR	binds	Hypertension
+Hemoglobin	binds	INS
+Cisplatin	treats	Insulin receptor
+Dexamethasone	treats	Albumin
+Cisplatin	interacts	Osteoarthritis
+Ibuprofen	associates	ACE
+CYP2C9	interacts	Paracetamol
+EGFR	associates	Simvastatin
+HTT	associates	Breast cancer
+Insulin receptor	treats	HTT
+Cisplatin	interacts	CYP2C9
+EGFR protein	associates	Metformin
+Albumin	binds	Huntington's disease
+Ibuprofen	treats	Hypertension
+Aspirin	treats	Huntington's disease
+Metformin	associates	Huntington's disease
+EGFR protein	associates	TNF
+EGFR protein	associates	Simvastatin
+HTT	associates	Simvastatin
+Aspirin	treats	Hypertension
+BRCA1	interacts	ACE
+Insulin receptor	treats	Atorvastatin
+TP53	binds	Hydroxychloroquine
+Simvastatin	binds	Albumin
+TP53	treats	Aspirin
+Insulin receptor	associates	Tamoxifen
+TNF	interacts	Tuberculosis
+ACE	interacts	Tuberculosis
+HTT	binds	APP
+EGFR protein	associates	APP
+VEGFA	treats	VEGF receptor
+Ibuprofen	interacts	APP
+Hemoglobin	interacts	Dexamethasone
+HTT	binds	Osteoarthritis
+Aspirin	interacts	HTT
+Hydroxychloroquine	treats	Headache
+Insulin receptor	associates	INS
+TP53	binds	Cisplatin
+Insulin receptor	associates	EGFR protein
+Hemoglobin	interacts	Tuberculosis
+Ibuprofen	interacts	Hydroxychloroquine
+BRCA1	interacts	HTT
+Aspirin	associates	ACE
+Aspirin	associates	Huntington's disease
+EGFR protein	binds	Huntington's disease
+Hydroxychloroquine	binds	Alzheimer's disease
+INS	binds	Hydroxychloroquine
+APP	binds	EGFR
+INS	binds	VEGF receptor
+TNF	associates	Albumin
+Hemoglobin	treats	Metformin
+Hydroxychloroquine	interacts	VEGF receptor
+Ibuprofen	binds	Albumin
+CYP2C9	binds	APP
+Atorvastatin	associates	HIV infection
+VEGFA	treats	Alzheimer's disease
+Paracetamol	treats	Breast cancer
+VEGF receptor	binds	Diabetes mellitus
+Albumin	associates	VEGF receptor
+VEGFA	binds	Hemoglobin
+TP53	binds	Hemoglobin
+Hemoglobin	interacts	Hypertension
+EGFR	associates	Insulin receptor
+ACE	binds	HIV infection
+Simvastatin	binds	Dexamethasone
+Cisplatin	binds	Hemoglobin
+Simvastatin	treats	Paracetamol
+Metformin	interacts	Tamoxifen
+Albumin	interacts	TNF
+Hemoglobin	binds	APP
+Ibuprofen	binds	Atorvastatin
+Hemoglobin	treats	Huntington's disease
+TP53	treats	Simvastatin
+APP	interacts	TP53
+Albumin	treats	Hypertension
+Insulin receptor	interacts	Ibuprofen
+ACE	binds	TP53
+Simvastatin	associates	Ibuprofen
+Hemoglobin	associates	Aspirin
+Cisplatin	binds	Aspirin
+Cisplatin	treats	Huntington's disease
+Insulin receptor	associates	TP53
+CYP2C9	interacts	Cisplatin
+HTT	interacts	VEGF receptor
+EGFR	binds	TNF
+Insulin receptor	associates	Paracetamol
+Cisplatin	binds	Tamoxifen
+TNF	treats	Asthma
+Hydroxychloroquine	interacts	CYP2C9
+TNF	binds	CYP2C9
+VEGFA	binds	VEGF receptor
+ACE	treats	Tuberculosis
+EGFR protein	associates	Breast cancer
+VEGF receptor	treats	EGFR
+Hemoglobin	interacts	Tuberculosis
+TP53	binds	ACE
+BRCA1	binds	Osteoarthritis
+Paracetamol	associates	Tamoxifen
+Simvastatin	treats	Osteoarthritis
+INS	binds	HIV infection
+HTT	associates	Aspirin
+ACE	interacts	Insulin receptor
+Cisplatin	treats	Hydroxychloroquine
+EGFR protein	interacts	Tuberculosis
+BRCA1	interacts	Albumin
+HTT	associates	ACE
+Hydroxychloroquine	interacts	Breast cancer
+Insulin receptor	treats	Dexamethasone
+Tamoxifen	associates	INS
+Albumin	interacts	Cisplatin
+Metformin	interacts	Asthma
+EGFR protein	treats	Headache
+VEGF receptor	treats	Hydroxychloroquine
+Metformin	treats	EGFR
+Metformin	interacts	Tamoxifen
+Ibuprofen	binds	Asthma
+BRCA1	associates	Hydroxychloroquine
+Metformin	binds	Insulin receptor
+TNF	binds	Metformin
+Paracetamol	interacts	Metformin
+TNF	interacts	Headache
+Metformin	associates	Cisplatin
+Hemoglobin	treats	TP53
+Insulin receptor	binds	Atorvastatin
+INS	interacts	Breast cancer
+BRCA1	associates	Ibuprofen
+Paracetamol	interacts	HTT
+TNF	binds	Hypertension
+BRCA1	treats	APP
+Dexamethasone	interacts	Huntington's disease
+EGFR	binds	ACE
+Tamoxifen	binds	Tuberculosis
+Hydroxychloroquine	interacts	Insulin receptor
+Tamoxifen	associates	VEGF receptor
+TNF	interacts	Insulin receptor
+Paracetamol	treats	Simvastatin
+TP53	binds	TNF
+Cisplatin	treats	Osteoarthritis
+Aspirin	interacts	EGFR protein
+VEGFA	binds	Diabetes mellitus
+Cisplatin	treats	TNF
+Insulin receptor	treats	TP53
+Paracetamol	associates	EGFR
+Cisplatin	treats	Tamoxifen
+Tamoxifen	treats	Osteoarthritis
+HTT	associates	Hydroxychloroquine
+CYP2C9	treats	Insulin receptor
+TP53	treats	CYP2C9
+Simvastatin	interacts	Tuberculosis
+Ibuprofen	associates	EGFR protein
+Metformin	treats	Hydroxychloroquine
+Simvastatin	interacts	INS
+EGFR protein	binds	TNF
+Metformin	treats	Tuberculosis
+Paracetamol	binds	Hypertension
+EGFR	binds	INS
+ACE	binds	Dexamethasone
+HTT	interacts	HIV infection
+Tamoxifen	associates	Atorvastatin
+Hemoglobin	interacts	Tamoxifen
+BRCA1	binds	EGFR protein
+VEGF receptor	associates	Hypertension
+Dexamethasone	treats	Cisplatin
+Hydroxychloroquine	binds	INS
+ACE	associates	Aspirin
+Insulin receptor	interacts	HTT
+EGFR protein	associates	Diabetes mellitus
+Simvastatin	associates	Huntington's disease
+Ibuprofen	associates	Simvastatin
+Hydroxychloroquine	binds	Hypertension
+Hemoglobin	interacts	Hydroxychloroquine
+Dexamethasone	binds	Tamoxifen
+Dexamethasone	associates	TP53
+Hemoglobin	associates	Aspirin
+Dexamethasone	associates	Huntington's disease
+BRCA1	treats	Alzheimer's disease
+Metformin	interacts	EGFR protein
+HTT	treats	Diabetes mellitus
+TP53	binds	Breast cancer
+Hydroxychloroquine	treats	APP
+EGFR protein	binds	VEGF receptor
+TNF	interacts	Paracetamol
+Metformin	interacts	Hypertension
+Aspirin	treats	Metformin
+TP53	associates	VEGF receptor
+Simvastatin	associates	TP53
+Albumin	associates	Diabetes mellitus
+HTT	binds	TNF
+Hemoglobin	associates	Alzheimer's disease
+Dexamethasone	associates	Alzheimer's disease
+EGFR protein	treats	HTT
+Simvastatin	treats	Ibuprofen
+ACE	interacts	Osteoarthritis
+TNF	associates	Hemoglobin
+VEGFA	treats	VEGF receptor
+Paracetamol	associates	ACE
+Hydroxychloroquine	treats	TNF
+Simvastatin	treats	Paracetamol
+Dexamethasone	interacts	Alzheimer's disease
+Hydroxychloroquine	associates	Huntington's disease
+EGFR	binds	Paracetamol
+Cisplatin	treats	Metformin
+Insulin receptor	associates	Atorvastatin
+TP53	binds	EGFR
+Insulin receptor	interacts	Huntington's disease
+Dexamethasone	interacts	CYP2C9
+VEGF receptor	treats	TP53
+Albumin	binds	Atorvastatin
+Cisplatin	treats	Huntington's disease
+Insulin receptor	interacts	EGFR protein
+Cisplatin	treats	Hemoglobin
+VEGFA	binds	EGFR protein
+VEGF receptor	treats	Breast cancer
+Atorvastatin	interacts	Aspirin
+Albumin	treats	Headache
+Hemoglobin	binds	Ibuprofen
+Dexamethasone	treats	Hydroxychloroquine
+Aspirin	binds	EGFR
+Metformin	interacts	Hypertension
+VEGFA	interacts	Dexamethasone
+Aspirin	interacts	HTT
+Atorvastatin	binds	BRCA1
+Hemoglobin	treats	HIV infection
+Dexamethasone	interacts	Tamoxifen
+VEGFA	treats	Atorvastatin
+Dexamethasone	interacts	EGFR
+ACE	interacts	Insulin receptor
+TP53	binds	Aspirin
+TNF	treats	Diabetes mellitus
+Atorvastatin	associates	HIV infection
+Tamoxifen	binds	VEGFA
+Dexamethasone	interacts	TP53
+EGFR protein	treats	Insulin receptor
+INS	binds	Osteoarthritis
+EGFR protein	binds	Asthma
+INS	treats	CYP2C9
+Paracetamol	binds	Breast cancer
+Hydroxychloroquine	associates	APP
+VEGFA	associates	Osteoarthritis
+VEGFA	binds	HIV infection
+EGFR	associates	Paracetamol
+Tamoxifen	interacts	Ibuprofen
+TNF	interacts	HIV infection
+Hydroxychloroquine	associates	Atorvastatin
+Albumin	interacts	APP
+Cisplatin	interacts	Aspirin
+INS	interacts	Hydroxychloroquine
+Albumin	treats	Dexamethasone
+CYP2C9	treats	Huntington's disease
+Hemoglobin	binds	Headache
+HTT	binds	Atorvastatin
+INS	interacts	Huntington's disease
+TP53	treats	Dexamethasone
+Cisplatin	treats	HIV infection
+CYP2C9	treats	BRCA1
+Cisplatin	interacts	INS
+Dexamethasone	binds	Asthma
+Metformin	binds	TNF
+HTT	associates	Dexamethasone
+Metformin	associates	HTT
+Cisplatin	treats	Tuberculosis
+Paracetamol	treats	Insulin receptor
+Albumin	interacts	Metformin
+HTT	interacts	APP
+Tamoxifen	interacts	HIV infection
+EGFR protein	binds	VEGFA
+TP53	binds	Insulin receptor
+Paracetamol	binds	Insulin receptor
+Albumin	treats	Hypertension
+Aspirin	binds	TP53
+ACE	binds	VEGF receptor
+Dexamethasone	treats	VEGFA
+Cisplatin	interacts	BRCA1
+ACE	treats	Atorvastatin
+Tamoxifen	binds	EGFR protein
+TNF	binds	Hypertension
+Aspirin	binds	BRCA1
+APP	associates	EGFR protein
+Simvastatin	treats	CYP2C9
+VEGFA	treats	Headache
+Paracetamol	treats	INS
+ACE	associates	Hemoglobin
+Dexamethasone	binds	Hypertension
+EGFR protein	associates	Hemoglobin
+TNF	interacts	Dexamethasone
+Aspirin	associates	Asthma
+TNF	associates	Aspirin
+Paracetamol	binds	Aspirin
+Hydroxychloroquine	binds	Alzheimer's disease
+Tamoxifen	treats	Hydroxychloroquine
+CYP2C9	interacts	VEGFA
+Tamoxifen	interacts	APP
+CYP2C9	binds	HTT
+CYP2C9	interacts	Tuberculosis
+VEGF receptor	treats	Tuberculosis
+Cisplatin	interacts	Tuberculosis
+EGFR protein	interacts	Diabetes mellitus
+Hemoglobin	interacts	Diabetes mellitus
+Hydroxychloroquine	associates	Paracetamol
+CYP2C9	interacts	HTT
+ACE	interacts	Insulin receptor
+TNF	treats	Breast cancer
+VEGFA	associates	CYP2C9
+Tamoxifen	interacts	HIV infection
+VEGF receptor	treats	Ibuprofen
+Metformin	interacts	Hydroxychloroquine
+Albumin	treats	Hydroxychloroquine
+Albumin	associates	Hemoglobin
+APP	binds	Dexamethasone
+TNF	interacts	Cisplatin
+INS	associates	VEGFA
+EGFR protein	associates	Alzheimer's disease
+CYP2C9	interacts	VEGF receptor
+TNF	treats	HTT
+ACE	associates	APP
+Tamoxifen	interacts	ACE
+Tamoxifen	treats	Osteoarthritis
+CYP2C9	associates	Tuberculosis
+Insulin receptor	interacts	Albumin
+Paracetamol	treats	VEGF receptor
+HTT	binds	EGFR
+EGFR protein	interacts	TNF
+Insulin receptor	interacts	Ibuprofen
+Metformin	binds	HIV infection
+Paracetamol	treats	Alzheimer's disease
+TP53	interacts	TNF
+CYP2C9	treats	Hydroxychloroquine
+ACE	interacts	Ibuprofen
+Albumin	interacts	Huntington's disease
+EGFR protein	treats	Metformin
+INS	binds	HTT
+VEGF receptor	interacts	TNF
+Dexamethasone	treats	Hemoglobin
+CYP2C9	interacts	TP53
+EGFR protein	associates	EGFR
+INS	interacts	EGFR protein
+INS	binds	HTT
+INS	binds	Albumin
+Tamoxifen	associates	ACE
+Metformin	treats	VEGF receptor
+APP	binds	TNF
+Tamoxifen	treats	Cisplatin
+BRCA1	binds	APP
+EGFR protein	associates	VEGFA
+Hydroxychloroquine	binds	Headache
+INS	associates	Insulin receptor
+Aspirin	treats	Diabetes mellitus
+Simvastatin	binds	BRCA1
+Hemoglobin	binds	Albumin
+Ibuprofen	binds	Albumin
+Albumin	treats	CYP2C9
+ACE	treats	Hydroxychloroquine
+Tamoxifen	associates	Atorvastatin
+Metformin	treats	Breast cancer
+VEGFA	treats	BRCA1
+TNF	interacts	Hydroxychloroquine
+Metformin	binds	Paracetamol
+Hydroxychloroquine	associates	TP53
+EGFR	interacts	Hypertension
+Aspirin	treats	Hypertension
+Paracetamol	interacts	Osteoarthritis
+VEGF receptor	interacts	Tuberculosis
+VEGF receptor	treats	Albumin
+Paracetamol	interacts	Osteoarthritis
+CYP2C9	interacts	ACE
+Dexamethasone	interacts	CYP2C9
+CYP2C9	associates	Diabetes mellitus
+Aspirin	interacts	TP53
+Ibuprofen	associates	Albumin
+EGFR protein	associates	Atorvastatin
+Tamoxifen	interacts	Hemoglobin
+TNF	associates	Osteoarthritis
+CYP2C9	treats	Headache
+EGFR protein	associates	ACE
+Paracetamol	interacts	Atorvastatin
+TNF	treats	CYP2C9
+CYP2C9	binds	Osteoarthritis
+TNF	interacts	Osteoarthritis
+VEGFA	binds	Aspirin
+Aspirin	binds	Hydroxychloroquine
+Hemoglobin	treats	Headache
+TP53	treats	EGFR protein
+Albumin	interacts	CYP2C9
+INS	interacts	Breast cancer
+HTT	associates	Aspirin
+Simvastatin	interacts	Headache
+Hydroxychloroquine	treats	Paracetamol
+TP53	treats	Aspirin
+Hemoglobin	binds	Albumin
+Aspirin	interacts	Dexamethasone
+VEGF receptor	interacts	Atorvastatin
+Paracetamol	associates	Tuberculosis
+Hydroxychloroquine	binds	CYP2C9
+BRCA1	binds	Dexamethasone
+TP53	interacts	EGFR protein
+ACE	associates	TNF
+ACE	binds	Osteoarthritis
+Albumin	treats	Hypertension
+Dexamethasone	interacts	TNF
+VEGFA	binds	Aspirin
+VEGF receptor	treats	HIV infection
+Simvastatin	treats	Diabetes mellitus
+Cisplatin	interacts	Alzheimer's disease
+ACE	interacts	VEGFA
+EGFR	treats	ACE
+Insulin receptor	treats	Simvastatin
+Simvastatin	interacts	EGFR protein
+TNF	binds	Hemoglobin
+Insulin receptor	interacts	Atorvastatin
+CYP2C9	treats	BRCA1
+ACE	associates	Metformin
+INS	interacts	Ibuprofen
+Hemoglobin	associates	ACE
+INS	treats	Aspirin
+Hydroxychloroquine	interacts	Aspirin
+INS	binds	VEGFA
+INS	binds	Tamoxifen
+Metformin	interacts	VEGFA
+BRCA1	associates	ACE
+Metformin	treats	TP53
+Simvastatin	binds	Aspirin
+ACE	associates	EGFR protein
+APP	associates	TNF
+Cisplatin	associates	Tuberculosis
+TNF	binds	Atorvastatin
+TP53	interacts	Ibuprofen
+BRCA1	binds	Atorvastatin
+VEGF receptor	binds	Asthma
+Ibuprofen	binds	Huntington's disease
+APP	treats	Metformin
+Hemoglobin	treats	EGFR protein
+Tamoxifen	binds	VEGFA
+Insulin receptor	treats	Cisplatin
+VEGFA	associates	ACE
+Metformin	associates	Insulin receptor
+Atorvastatin	interacts	Simvastatin
+Cisplatin	binds	Dexamethasone
+TP53	interacts	Insulin receptor
+Tamoxifen	interacts	CYP2C9
+Simvastatin	treats	APP
+TNF	binds	Breast cancer
+Simvastatin	binds	Atorvastatin
+Ibuprofen	binds	Dexamethasone
+Cisplatin	associates	Alzheimer's disease
+Metformin	associates	Hydroxychloroquine
+VEGFA	treats	Dexamethasone
+APP	associates	Breast cancer
+Dexamethasone	binds	Tuberculosis
+EGFR protein	treats	Hemoglobin
+HTT	treats	BRCA1
+BRCA1	binds	Aspirin
+Albumin	interacts	VEGFA
+EGFR protein	treats	Alzheimer's disease
+EGFR	interacts	EGFR protein
+Tamoxifen	treats	TP53
+Paracetamol	binds	VEGF receptor
+INS	interacts	EGFR protein
+INS	treats	Hypertension
+Insulin receptor	associates	Hemoglobin
+EGFR protein	interacts	Paracetamol
+Metformin	treats	EGFR
+HTT	interacts	Atorvastatin
+CYP2C9	treats	Tuberculosis
+Dexamethasone	binds	Simvastatin
+INS	treats	VEGF receptor
+Albumin	associates	APP
+Paracetamol	interacts	Tuberculosis
+Dexamethasone	binds	Tamoxifen
+VEGF receptor	treats	Insulin receptor
+EGFR	interacts	Tamoxifen
+HTT	associates	Simvastatin
+Hydroxychloroquine	interacts	Osteoarthritis
+INS	interacts	TNF
+Metformin	treats	Huntington's disease
+Dexamethasone	treats	Tuberculosis
+CYP2C9	treats	Tuberculosis
+Metformin	associates	Huntington's disease
+Atorvastatin	interacts	Cisplatin
+Simvastatin	associates	Asthma
+Insulin receptor	associates	TP53
+Simvastatin	treats	Atorvastatin
+TNF	associates	HIV infection
+VEGFA	treats	Metformin
+Insulin receptor	interacts	EGFR protein
+HTT	treats	Hemoglobin
+Tamoxifen	binds	Paracetamol
+APP	binds	Cisplatin
+TP53	interacts	Diabetes mellitus
+Atorvastatin	binds	Alzheimer's disease
+EGFR	interacts	Tuberculosis
+Cisplatin	associates	Tamoxifen
+BRCA1	interacts	Cisplatin
+BRCA1	associates	Albumin
+Ibuprofen	associates	Paracetamol
+Paracetamol	associates	EGFR
+Simvastatin	treats	HIV infection
+Atorvastatin	associates	Ibuprofen
+Dexamethasone	associates	EGFR
+Tamoxifen	associates	APP
+Dexamethasone	binds	Albumin
+EGFR protein	treats	Breast cancer
+APP	interacts	CYP2C9
+TP53	treats	ACE
+Cisplatin	binds	VEGF receptor
+Albumin	interacts	CYP2C9
+INS	treats	Hemoglobin
+Albumin	treats	Asthma
+Hemoglobin	interacts	HIV infection
+Hydroxychloroquine	interacts	Tuberculosis
+Paracetamol	associates	Dexamethasone
+EGFR	treats	Metformin
+HTT	treats	ACE
+Simvastatin	treats	VEGF receptor
+Hemoglobin	treats	Alzheimer's disease
+Hydroxychloroquine	interacts	Cisplatin
+EGFR	treats	Tuberculosis
+APP	binds	Tamoxifen
+EGFR	associates	Alzheimer's disease
+Hemoglobin	interacts	Breast cancer
+Tamoxifen	associates	HTT
+Atorvastatin	binds	Dexamethasone
+Ibuprofen	treats	HIV infection
+EGFR	treats	Albumin
+BRCA1	interacts	VEGF receptor
+Aspirin	interacts	VEGFA
+Aspirin	binds	Breast cancer
+TNF	binds	BRCA1
+TP53	interacts	Hydroxychloroquine
+Hemoglobin	treats	INS
+EGFR	treats	EGFR protein
+Paracetamol	interacts	Atorvastatin
+Insulin receptor	associates	ACE
+HTT	associates	Hemoglobin
+EGFR protein	treats	VEGFA
+Insulin receptor	treats	Asthma
+Tamoxifen	treats	Metformin
+Paracetamol	associates	ACE
+INS	treats	Tuberculosis
+HTT	binds	Breast cancer
+Hydroxychloroquine	treats	Alzheimer's disease
+Ibuprofen	associates	CYP2C9
+INS	binds	Ibuprofen
+VEGF receptor	interacts	ACE
+Tamoxifen	interacts	Tuberculosis
+HTT	binds	VEGF receptor
+TNF	binds	Metformin
+VEGFA	interacts	Hypertension
+Albumin	interacts	Tamoxifen
+INS	binds	Simvastatin
+HTT	treats	Alzheimer's disease
+Albumin	treats	Asthma
+Simvastatin	treats	Dexamethasone
+Paracetamol	interacts	BRCA1
+TP53	interacts	Alzheimer's disease
+Atorvastatin	treats	Insulin receptor
+Albumin	associates	Hydroxychloroquine
+BRCA1	binds	Ibuprofen
+Ibuprofen	associates	Insulin receptor
+INS	associates	Tamoxifen
+Albumin	associates	VEGF receptor
+BRCA1	interacts	Atorvastatin
+VEGF receptor	binds	EGFR protein
+TP53	binds	CYP2C9
+EGFR protein	binds	Aspirin
+Cisplatin	treats	BRCA1
+Hemoglobin	treats	Simvastatin
+Atorvastatin	treats	TP53
+Metformin	associates	TP53
+TNF	interacts	INS
+EGFR	associates	Headache
+Ibuprofen	treats	Diabetes mellitus
+ACE	binds	Headache
+Hemoglobin	binds	EGFR protein
+HTT	treats	Headache
+TNF	associates	Aspirin
+INS	associates	Osteoarthritis
+Metformin	associates	Hydroxychloroquine
+Paracetamol	treats	VEGF receptor
+EGFR protein	interacts	Insulin receptor
+Paracetamol	treats	Tamoxifen
+Tamoxifen	treats	Atorvastatin
+Ibuprofen	treats	INS
+Simvastatin	associates	TNF
+ACE	associates	Insulin receptor
+ACE	binds	Hydroxychloroquine
+EGFR protein	associates	APP
+Simvastatin	interacts	Ibuprofen
+CYP2C9	interacts	TP53
+CYP2C9	binds	Diabetes mellitus
+TNF	associates	INS
+Albumin	treats	EGFR
+EGFR	treats	VEGF receptor
+VEGFA	binds	Insulin receptor
+TP53	binds	EGFR
+VEGFA	interacts	INS
+Atorvastatin	treats	HTT
+VEGFA	binds	Hypertension
+Hemoglobin	binds	Ibuprofen
+TP53	interacts	Simvastatin
+VEGF receptor	binds	Metformin
+Insulin receptor	interacts	Ibuprofen
+TP53	treats	Insulin receptor
+BRCA1	associates	Cisplatin
+Dexamethasone	binds	VEGFA
+Paracetamol	treats	Insulin receptor
+Albumin	treats	HTT
+Tamoxifen	interacts	Tuberculosis
+Tamoxifen	treats	INS
+Cisplatin	treats	Albumin
+Atorvastatin	associates	BRCA1
+Tamoxifen	treats	TP53
+CYP2C9	associates	Tamoxifen
+APP	treats	Hypertension
+Paracetamol	interacts	HIV infection
+Dexamethasone	binds	EGFR
+ACE	binds	Paracetamol
+Paracetamol	binds	VEGFA
+Hydroxychloroquine	treats	Simvastatin
+Hemoglobin	binds	Paracetamol
+BRCA1	binds	VEGF receptor
+VEGF receptor	interacts	Insulin receptor
+Hemoglobin	interacts	Alzheimer's disease
+HTT	interacts	CYP2C9
+Ibuprofen	treats	Dexamethasone
+Simvastatin	interacts	CYP2C9
+Metformin	associates	HTT
+Insulin receptor	associates	INS
+VEGF receptor	interacts	Hypertension
+TNF	binds	Insulin receptor
+Aspirin	binds	Hydroxychloroquine
+Hydroxychloroquine	binds	Atorvastatin
+Simvastatin	binds	Dexamethasone
+Albumin	binds	Dexamethasone
+INS	treats	ACE
+Metformin	treats	Osteoarthritis
+APP	associates	Tamoxifen
+EGFR protein	associates	HTT
+EGFR	treats	TP53
+Hemoglobin	interacts	Hydroxychloroquine
+TP53	associates	Cisplatin
+Simvastatin	treats	TNF
+TNF	binds	EGFR protein
+HTT	associates	EGFR
+Hydroxychloroquine	associates	Diabetes mellitus
+VEGFA	treats	HIV infection
+Paracetamol	interacts	Albumin
+Paracetamol	treats	Tuberculosis
+TP53	associates	Tuberculosis
+TP53	binds	Huntington's disease
+VEGFA	associates	INS
+HTT	treats	VEGF receptor
+Insulin receptor	treats	TP53
+Paracetamol	binds	EGFR protein
+BRCA1	interacts	Hypertension
+Aspirin	interacts	Osteoarthritis
+INS	interacts	TNF
+VEGFA	interacts	VEGF receptor
+CYP2C9	binds	Simvastatin
+VEGFA	treats	HTT
+APP	interacts	CYP2C9
+APP	interacts	Breast cancer
+ACE	associates	Simvastatin
+BRCA1	treats	Huntington's disease
+TNF	treats	Alzheimer's disease
+VEGFA	binds	Insulin receptor
+BRCA1	interacts	Insulin receptor
+Atorvastatin	binds	Tuberculosis
+Simvastatin	treats	BRCA1
+INS	treats	Ibuprofen
+EGFR	associates	EGFR protein
+Tamoxifen	interacts	TP53
+Tamoxifen	associates	VEGF receptor
+Insulin receptor	treats	Headache
+EGFR protein	binds	Simvastatin
+Atorvastatin	interacts	EGFR
+CYP2C9	binds	HTT
+Atorvastatin	treats	Hypertension
+Cisplatin	treats	Ibuprofen
+TNF	treats	CYP2C9
+TP53	binds	Simvastatin
+Hydroxychloroquine	treats	EGFR protein
+VEGF receptor	binds	INS
+TNF	associates	Aspirin
+Aspirin	associates	Hemoglobin
+Hemoglobin	binds	TP53
+Paracetamol	binds	Alzheimer's disease
+VEGFA	interacts	CYP2C9
+Tamoxifen	interacts	APP
+Tamoxifen	binds	VEGF receptor
+TP53	associates	Asthma
+VEGF receptor	treats	INS
+INS	treats	Tamoxifen
+Tamoxifen	binds	INS
+VEGFA	associates	EGFR
+BRCA1	treats	Asthma
+Insulin receptor	associates	Simvastatin
+Paracetamol	treats	TP53
+TNF	associates	VEGF receptor
+Hemoglobin	binds	Osteoarthritis
+Insulin receptor	binds	Dexamethasone
+Ibuprofen	treats	CYP2C9
+Aspirin	binds	Asthma
+Hydroxychloroquine	treats	Breast cancer
+Aspirin	binds	Hydroxychloroquine
+VEGF receptor	treats	Dexamethasone
+Hydroxychloroquine	treats	Cisplatin
+VEGF receptor	associates	Huntington's disease
+Hemoglobin	treats	CYP2C9
+Ibuprofen	interacts	HTT
+EGFR protein	binds	Atorvastatin
+Insulin receptor	associates	HTT
+VEGFA	interacts	Metformin
+VEGF receptor	interacts	INS
+Simvastatin	interacts	Paracetamol
+Insulin receptor	treats	Paracetamol
+INS	binds	CYP2C9
+Hemoglobin	associates	Aspirin
+VEGF receptor	treats	Osteoarthritis
+Hemoglobin	binds	EGFR protein
+Tamoxifen	associates	Albumin
+Ibuprofen	binds	HTT
+Aspirin	interacts	Insulin receptor
+Hydroxychloroquine	treats	Huntington's disease
+Ibuprofen	binds	EGFR protein
+EGFR	binds	Asthma
+Paracetamol	treats	Osteoarthritis
+Metformin	treats	Ibuprofen
+EGFR	associates	Osteoarthritis
+Ibuprofen	interacts	TNF
+APP	binds	Hemoglobin
+Hydroxychloroquine	associates	Headache
+Hydroxychloroquine	associates	Albumin
+Cisplatin	associates	Albumin
+Hydroxychloroquine	associates	Tuberculosis
+VEGFA	interacts	Alzheimer's disease
+Paracetamol	binds	HIV infection
+Hemoglobin	interacts	Huntington's disease
+Hemoglobin	treats	CYP2C9
+HTT	interacts	Alzheimer's disease
+Tamoxifen	associates	Huntington's disease
+Hydroxychloroquine	binds	VEGFA
+Insulin receptor	treats	HTT
+Ibuprofen	binds	TP53
+Dexamethasone	interacts	CYP2C9
+Simvastatin	treats	TNF
+Paracetamol	associates	Dexamethasone
+HTT	binds	Dexamethasone
+TNF	treats	Paracetamol
+Atorvastatin	associates	CYP2C9
+Hemoglobin	associates	Osteoarthritis
+Simvastatin	interacts	Insulin receptor
+EGFR	binds	TP53
+Albumin	interacts	ACE
+EGFR	treats	HIV infection
+Insulin receptor	associates	INS
+VEGFA	associates	Hypertension
+TNF	associates	CYP2C9
+Dexamethasone	interacts	Huntington's disease
+ACE	binds	BRCA1
+Hydroxychloroquine	binds	Breast cancer
+INS	interacts	VEGF receptor
+Paracetamol	interacts	Atorvastatin
+Ibuprofen	associates	CYP2C9
+Metformin	treats	Tuberculosis
+BRCA1	binds	Paracetamol
+ACE	binds	Tamoxifen
+VEGFA	binds	Albumin
+Paracetamol	associates	Breast cancer
+Cisplatin	treats	HIV infection
+APP	associates	Albumin
+Dexamethasone	binds	Aspirin
+INS	associates	Cisplatin
+TNF	associates	Hydroxychloroquine
+VEGFA	treats	TNF
+TNF	treats	HTT
+ACE	interacts	HTT
+Albumin	binds	Hypertension
+Atorvastatin	treats	Hydroxychloroquine
+Paracetamol	associates	Albumin
+APP	interacts	Albumin
+Aspirin	binds	HTT
+ACE	binds	Hypertension
+Dexamethasone	binds	Alzheimer's disease
+Hemoglobin	binds	BRCA1
+ACE	binds	Insulin receptor
+Cisplatin	treats	Tamoxifen
+Tamoxifen	interacts	Osteoarthritis
+Aspirin	interacts	Headache
+TNF	associates	ACE
+Tamoxifen	interacts	Albumin
+Atorvastatin	treats	Metformin
+Insulin receptor	treats	Headache
+EGFR protein	associates	Hydroxychloroquine
+APP	associates	EGFR protein
+EGFR	binds	Diabetes mellitus
+Paracetamol	treats	Tuberculosis
+Paracetamol	binds	Simvastatin
+BRCA1	binds	Paracetamol
+VEGFA	binds	HIV infection
+Paracetamol	binds	EGFR
+Albumin	binds	Tuberculosis
+APP	treats	HIV infection
+BRCA1	associates	Huntington's disease
+Aspirin	treats	TNF
+VEGF receptor	interacts	Tamoxifen
+Insulin receptor	associates	Atorvastatin
+ACE	associates	Aspirin
+BRCA1	associates	Ibuprofen
+Paracetamol	binds	Simvastatin
+Aspirin	treats	Alzheimer's disease
+TNF	binds	Cisplatin
+Insulin receptor	treats	VEGF receptor
+Ibuprofen	interacts	Headache
+Ibuprofen	interacts	Paracetamol
+Hemoglobin	treats	APP
+VEGF receptor	binds	Asthma
+Atorvastatin	associates	Headache
+Hemoglobin	associates	Hydroxychloroquine
+Hemoglobin	interacts	VEGF receptor
+Tamoxifen	treats	Metformin
+EGFR	binds	Albumin
+Hydroxychloroquine	binds	Albumin
+Albumin	associates	HIV infection
+Cisplatin	interacts	Aspirin
+Hemoglobin	binds	BRCA1
+CYP2C9	interacts	VEGFA
+Insulin receptor	interacts	Metformin
+Hemoglobin	associates	Ibuprofen
+TNF	interacts	EGFR
+Hydroxychloroquine	interacts	VEGF receptor
+Metformin	treats	TP53
+HTT	treats	TP53
+Albumin	interacts	Metformin
+ACE	associates	BRCA1
+INS	associates	Metformin
+Albumin	binds	Breast cancer
+Metformin	treats	Ibuprofen
+APP	associates	Paracetamol
+Hemoglobin	interacts	VEGF receptor
+Simvastatin	treats	APP
+Hemoglobin	binds	EGFR
+Simvastatin	interacts	Albumin
+Cisplatin	associates	Hydroxychloroquine
+VEGFA	interacts	EGFR
+Aspirin	binds	EGFR protein
+Ibuprofen	binds	Atorvastatin
+CYP2C9	associates	INS
+VEGFA	associates	Atorvastatin
+Atorvastatin	associates	Alzheimer's disease
+Dexamethasone	associates	INS
+HTT	binds	Albumin
+Dexamethasone	associates	Osteoarthritis
+Metformin	binds	EGFR
+HTT	binds	Breast cancer
+Dexamethasone	binds	Headache
+VEGF receptor	binds	INS
+Dexamethasone	binds	Huntington's disease
+HTT	associates	TP53
+TP53	treats	EGFR
+Hydroxychloroquine	interacts	Tuberculosis
+BRCA1	treats	Cisplatin
+Albumin	binds	Simvastatin
+Dexamethasone	interacts	Hypertension
+EGFR	treats	Diabetes mellitus
+Paracetamol	interacts	HIV infection
+Paracetamol	associates	HIV infection
+INS	associates	Asthma
+INS	treats	Ibuprofen
+Metformin	interacts	EGFR protein
+EGFR protein	treats	Insulin receptor
+Ibuprofen	associates	Metformin
+APP	interacts	Atorvastatin
+Tamoxifen	associates	Paracetamol
+Aspirin	binds	BRCA1
+Hydroxychloroquine	interacts	Headache
+Insulin receptor	treats	Paracetamol
+Tamoxifen	interacts	Huntington's disease
+HTT	associates	TNF
+VEGF receptor	associates	ACE
+Hemoglobin	interacts	EGFR
+Simvastatin	interacts	EGFR
+VEGF receptor	interacts	Tuberculosis
+APP	binds	Tamoxifen
+TNF	interacts	Huntington's disease
+CYP2C9	interacts	EGFR
+Albumin	binds	Osteoarthritis
+HTT	binds	Paracetamol
+BRCA1	binds	Hemoglobin
+Insulin receptor	treats	Breast cancer
+VEGFA	interacts	Huntington's disease
+ACE	associates	Paracetamol
+Simvastatin	interacts	Atorvastatin
+ACE	treats	EGFR
+VEGF receptor	binds	ACE
+Dexamethasone	binds	Tuberculosis
+Simvastatin	associates	Hypertension
+HTT	interacts	Asthma
+Paracetamol	binds	Hypertension
+HTT	associates	ACE
+VEGF receptor	binds	Albumin
+Tamoxifen	associates	Huntington's disease
+TNF	interacts	ACE
+HTT	binds	INS
+TP53	binds	BRCA1
+Cisplatin	binds	Diabetes mellitus
+ACE	interacts	INS
+VEGFA	associates	Hypertension
+ACE	binds	Dexamethasone
+EGFR	associates	Huntington's disease
+Paracetamol	treats	Hemoglobin
+Hydroxychloroquine	associates	Headache
+Dexamethasone	interacts	Simvastatin
+Ibuprofen	associates	Metformin
+Aspirin	associates	Ibuprofen
+TP53	treats	HTT
+Simvastatin	associates	Hemoglobin
+Simvastatin	binds	Cisplatin
+HTT	binds	Paracetamol
+Hemoglobin	associates	CYP2C9
+TNF	binds	VEGF receptor
+Hydroxychloroquine	associates	HTT
+CYP2C9	interacts	BRCA1
+Hemoglobin	associates	Paracetamol
+APP	interacts	Atorvastatin
+Tamoxifen	interacts	Breast cancer
+TP53	associates	Tuberculosis
+Ibuprofen	binds	VEGF receptor
+Hydroxychloroquine	interacts	HIV infection
+Dexamethasone	treats	Hemoglobin
+Hemoglobin	binds	APP
+VEGF receptor	interacts	Atorvastatin
+INS	associates	Dexamethasone
+BRCA1	associates	Insulin receptor
+BRCA1	treats	APP
+Hemoglobin	associates	Huntington's disease
+Dexamethasone	treats	Osteoarthritis
+VEGFA	interacts	Hemoglobin
+Metformin	binds	INS
+BRCA1	interacts	HIV infection
+TP53	binds	HTT
+INS	treats	Huntington's disease
+Simvastatin	treats	Aspirin
+Albumin	binds	INS
+Aspirin	treats	Diabetes mellitus
+Aspirin	associates	HIV infection
+INS	associates	Insulin receptor
+EGFR	associates	EGFR protein
+VEGF receptor	interacts	Headache
+TP53	associates	BRCA1
+VEGFA	interacts	EGFR protein
+Insulin receptor	binds	Albumin
+Insulin receptor	associates	Atorvastatin
+Insulin receptor	binds	Simvastatin
+BRCA1	interacts	Cisplatin
+EGFR	binds	Alzheimer's disease
+Albumin	interacts	Headache
+CYP2C9	binds	EGFR protein
+VEGF receptor	binds	Metformin
+VEGFA	associates	Insulin receptor
+TNF	associates	Alzheimer's disease
+Aspirin	treats	TP53
+INS	binds	Osteoarthritis
+Dexamethasone	binds	Cisplatin
+CYP2C9	treats	Ibuprofen
+Insulin receptor	interacts	Albumin
+Aspirin	interacts	Tuberculosis
+VEGFA	treats	Hypertension
+CYP2C9	interacts	Simvastatin
+Aspirin	treats	Paracetamol
+Hemoglobin	binds	Tuberculosis
+Ibuprofen	associates	Huntington's disease
+Albumin	interacts	BRCA1
+Paracetamol	associates	Diabetes mellitus
+CYP2C9	treats	Headache
+Insulin receptor	treats	ACE
+HTT	treats	Tuberculosis
+Dexamethasone	interacts	EGFR protein
+Hemoglobin	interacts	ACE
+BRCA1	interacts	Tamoxifen
+Ibuprofen	associates	Tuberculosis
+VEGFA	associates	Simvastatin
+HTT	associates	TP53
+Hemoglobin	binds	BRCA1
+Ibuprofen	binds	EGFR
+Cisplatin	treats	BRCA1
+EGFR	associates	CYP2C9
+Simvastatin	binds	TP53
+VEGF receptor	binds	HIV infection
+TP53	treats	BRCA1
+Tamoxifen	associates	Metformin
+VEGF receptor	interacts	Headache
+VEGF receptor	interacts	Tuberculosis
+TP53	treats	ACE
+VEGF receptor	binds	Metformin
+Dexamethasone	associates	Hydroxychloroquine
+Atorvastatin	binds	Albumin
+EGFR protein	interacts	Diabetes mellitus
+TP53	treats	BRCA1
+Aspirin	associates	Hydroxychloroquine
+Metformin	binds	Albumin
+TNF	interacts	Headache
+Atorvastatin	interacts	Osteoarthritis
+BRCA1	treats	Hydroxychloroquine
+Cisplatin	interacts	TNF
+Insulin receptor	interacts	Tamoxifen
+Dexamethasone	binds	Asthma
+Hydroxychloroquine	binds	Hypertension
+APP	associates	Diabetes mellitus
+APP	treats	Metformin
+Simvastatin	associates	Albumin
+Aspirin	binds	APP
+EGFR protein	treats	VEGFA
+Metformin	binds	Alzheimer's disease
+APP	binds	Albumin
+TP53	binds	EGFR
+TNF	associates	Albumin
+Atorvastatin	interacts	Paracetamol
+Tamoxifen	interacts	Diabetes mellitus
+TP53	binds	BRCA1
+Ibuprofen	binds	Asthma
+Paracetamol	associates	Aspirin
+TNF	treats	Metformin
+Hydroxychloroquine	treats	HIV infection
+Atorvastatin	interacts	Tuberculosis
+VEGFA	treats	VEGF receptor
+EGFR protein	associates	Aspirin
+VEGF receptor	associates	Ibuprofen
+Cisplatin	associates	Aspirin
+TNF	treats	Metformin
+Dexamethasone	binds	Tuberculosis
+INS	binds	Tamoxifen
+Aspirin	interacts	Cisplatin
+EGFR	interacts	HTT
+Insulin receptor	interacts	Asthma
+EGFR	binds	Headache
+Atorvastatin	interacts	APP
+Paracetamol	binds	APP
+EGFR	binds	APP
+Atorvastatin	associates	EGFR
+TNF	treats	Simvastatin
+Simvastatin	binds	Hydroxychloroquine
+Hydroxychloroquine	treats	Breast cancer
+VEGFA	interacts	Breast cancer
+Hydroxychloroquine	interacts	Diabetes mellitus
+Aspirin	binds	Dexamethasone
+Ibuprofen	treats	Hydroxychloroquine
+APP	binds	Diabetes mellitus
+Dexamethasone	treats	Hypertension
+HTT	interacts	Cisplatin
+Paracetamol	binds	Dexamethasone
+Ibuprofen	treats	Tuberculosis
+INS	interacts	Hemoglobin
+Hemoglobin	associates	Aspirin
+Albumin	treats	Aspirin
+Metformin	binds	Diabetes mellitus
+EGFR	associates	Osteoarthritis
+VEGFA	interacts	Cisplatin
+Hemoglobin	associates	Headache
+Ibuprofen	interacts	TP53
+Aspirin	interacts	Osteoarthritis
+Simvastatin	associates	Paracetamol
+Simvastatin	binds	Hypertension
+Hemoglobin	associates	Paracetamol
+Metformin	treats	Breast cancer
+BRCA1	interacts	HTT
+BRCA1	interacts	VEGFA
+EGFR	treats	HTT
+Dexamethasone	treats	TP53
+Aspirin	treats	TNF
+Metformin	binds	Hydroxychloroquine
+Ibuprofen	associates	EGFR protein
+Metformin	binds	Alzheimer's disease
+BRCA1	binds	Albumin
+VEGF receptor	associates	Hemoglobin
+INS	binds	Asthma
+Metformin	binds	Hypertension
+Ibuprofen	treats	Alzheimer's disease
+Albumin	treats	HTT
+VEGF receptor	treats	Hypertension
+APP	treats	Paracetamol
+TNF	associates	Atorvastatin
+INS	interacts	Breast cancer
+TP53	associates	APP
+TNF	treats	Tuberculosis
+Simvastatin	treats	Dexamethasone
+Insulin receptor	binds	ACE
+Dexamethasone	treats	BRCA1
+Albumin	treats	VEGF receptor
+INS	interacts	VEGFA
+Hemoglobin	treats	Dexamethasone
+Cisplatin	binds	BRCA1
+ACE	interacts	HTT
+Aspirin	binds	Dexamethasone
+TNF	associates	BRCA1
+Simvastatin	binds	Hemoglobin
+INS	treats	EGFR
+Simvastatin	interacts	Insulin receptor
+HTT	binds	APP
+TNF	binds	Paracetamol
+VEGF receptor	binds	Simvastatin
+Hydroxychloroquine	treats	HIV infection
+VEGF receptor	associates	CYP2C9
+Albumin	associates	Insulin receptor
+EGFR	binds	HTT
+Atorvastatin	interacts	Aspirin
+Tamoxifen	associates	Insulin receptor
+ACE	interacts	Osteoarthritis
+EGFR protein	treats	HIV infection
+Hydroxychloroquine	binds	Atorvastatin
+Aspirin	interacts	EGFR
+TP53	treats	Alzheimer's disease
+Simvastatin	binds	EGFR protein
+Tamoxifen	associates	Diabetes mellitus
+BRCA1	binds	Tamoxifen
+Insulin receptor	treats	Cisplatin
+Tamoxifen	binds	Headache
+Albumin	associates	Atorvastatin
+Simvastatin	binds	Breast cancer
+Aspirin	treats	Insulin receptor
+BRCA1	associates	Paracetamol
+Aspirin	binds	Cisplatin
+Paracetamol	interacts	Hemoglobin
+INS	associates	APP
+Aspirin	associates	VEGF receptor
+VEGF receptor	interacts	Huntington's disease
+Hydroxychloroquine	associates	TNF
+ACE	interacts	VEGF receptor
+Dexamethasone	interacts	TP53
+VEGF receptor	binds	Simvastatin
+Simvastatin	associates	ACE
+VEGF receptor	associates	HIV infection
+Ibuprofen	interacts	TNF
+HTT	interacts	Tuberculosis
+APP	treats	Metformin
+TNF	treats	Aspirin
+Cisplatin	treats	Hypertension
+VEGF receptor	associates	Huntington's disease
+APP	treats	Insulin receptor
+HTT	interacts	BRCA1
+Atorvastatin	associates	Hypertension
+Insulin receptor	interacts	Tuberculosis
+Atorvastatin	treats	Insulin receptor
+TP53	interacts	Hemoglobin
+EGFR	associates	Tuberculosis
+BRCA1	associates	CYP2C9
+BRCA1	treats	Atorvastatin
+Atorvastatin	treats	TP53
+APP	treats	Breast cancer
+INS	associates	Paracetamol
+BRCA1	interacts	TNF
+TNF	treats	VEGF receptor
+INS	binds	Tuberculosis
+Insulin receptor	associates	Tamoxifen
+CYP2C9	binds	Simvastatin
+Tamoxifen	binds	Breast cancer
+INS	associates	Dexamethasone
+VEGFA	binds	Hydroxychloroquine
+Hydroxychloroquine	interacts	Tuberculosis
+INS	treats	Simvastatin
+BRCA1	binds	APP
+Hemoglobin	interacts	Simvastatin
+CYP2C9	associates	BRCA1
+HTT	binds	Asthma
+Albumin	associates	EGFR protein
+EGFR	treats	Albumin
+Atorvastatin	treats	Osteoarthritis
+Tamoxifen	interacts	Hydroxychloroquine
+HTT	associates	CYP2C9
+ACE	associates	Atorvastatin
+Dexamethasone	associates	Asthma
+Ibuprofen	treats	EGFR
+Tamoxifen	associates	EGFR
+Tamoxifen	associates	Dexamethasone
+VEGFA	treats	Albumin
+Aspirin	interacts	TP53
+VEGFA	associates	EGFR protein
+BRCA1	treats	EGFR protein
+BRCA1	binds	Cisplatin
+Hemoglobin	interacts	Asthma
+VEGFA	interacts	Aspirin
+APP	associates	Hypertension
+Hemoglobin	treats	Osteoarthritis
+Hemoglobin	treats	Tamoxifen
+Ibuprofen	interacts	Insulin receptor
+Paracetamol	binds	INS
+Insulin receptor	associates	Diabetes mellitus
+Cisplatin	associates	Albumin
+Tamoxifen	treats	Ibuprofen
+EGFR protein	binds	Albumin
+APP	interacts	VEGF receptor
+Ibuprofen	interacts	Headache
+Dexamethasone	binds	TNF
+VEGF receptor	treats	Hydroxychloroquine
+Tamoxifen	associates	ACE
+VEGFA	treats	Insulin receptor
+CYP2C9	interacts	VEGFA
+TP53	treats	Headache
+Atorvastatin	treats	CYP2C9
+APP	binds	Aspirin
+Ibuprofen	associates	Simvastatin
+Paracetamol	treats	APP
+Ibuprofen	interacts	Albumin
+Paracetamol	treats	Diabetes mellitus
+BRCA1	treats	Aspirin
+TNF	associates	Diabetes mellitus
+Tamoxifen	binds	HTT
+HTT	associates	Insulin receptor
+Hemoglobin	interacts	Breast cancer
+Ibuprofen	binds	Tuberculosis
+Atorvastatin	treats	Simvastatin
+Cisplatin	interacts	TP53
+Ibuprofen	interacts	TP53
+Albumin	interacts	Insulin receptor
+Paracetamol	associates	Metformin
+INS	associates	TP53
+VEGF receptor	associates	Asthma
+BRCA1	interacts	Hypertension
+Dexamethasone	associates	Headache
+Dexamethasone	interacts	INS
+Metformin	associates	VEGFA
+Paracetamol	associates	VEGF receptor
+TP53	treats	Osteoarthritis
+Ibuprofen	binds	BRCA1
+Ibuprofen	binds	ACE
+EGFR	interacts	Headache
+Atorvastatin	treats	Headache
+EGFR protein	interacts	CYP2C9
+Cisplatin	treats	Diabetes mellitus
+EGFR	interacts	INS
+Hemoglobin	treats	Alzheimer's disease
+Paracetamol	binds	EGFR protein
+BRCA1	binds	Headache
+ACE	associates	Insulin receptor
+Albumin	binds	VEGF receptor
+Albumin	interacts	Tuberculosis
+Atorvastatin	treats	Dexamethasone
+HTT	associates	Tamoxifen
+Cisplatin	treats	Asthma
+EGFR	binds	Tamoxifen
+Dexamethasone	associates	ACE
+BRCA1	binds	Diabetes mellitus
+HTT	interacts	HIV infection
+BRCA1	interacts	Aspirin
+Atorvastatin	interacts	TP53
+EGFR	treats	TNF
+Paracetamol	associates	HIV infection
+HTT	interacts	VEGFA
+EGFR protein	associates	ACE
+Paracetamol	associates	VEGFA
+Albumin	treats	Hydroxychloroquine
+Cisplatin	binds	INS
+Ibuprofen	treats	HTT
+Ibuprofen	treats	VEGFA
+BRCA1	binds	Ibuprofen
+Hydroxychloroquine	associates	INS
+ACE	interacts	Asthma
+Tamoxifen	interacts	Ibuprofen
+VEGFA	binds	Hemoglobin
+Tamoxifen	interacts	Headache
+Atorvastatin	associates	Asthma
+Paracetamol	treats	Simvastatin
+EGFR	associates	Cisplatin
+Paracetamol	associates	Metformin
+EGFR	interacts	Hypertension
+Aspirin	treats	Breast cancer
+APP	binds	HIV infection
+Hemoglobin	interacts	Hypertension
+VEGF receptor	treats	Headache
+TP53	binds	Breast cancer
+Simvastatin	binds	Cisplatin
+TNF	binds	Ibuprofen
+Hydroxychloroquine	treats	Huntington's disease
+Hemoglobin	treats	Headache
+Cisplatin	interacts	Breast cancer
+Tamoxifen	binds	BRCA1
+EGFR	associates	TNF
+EGFR protein	associates	Alzheimer's disease
+Simvastatin	treats	ACE
+Albumin	interacts	VEGF receptor
+TP53	binds	Albumin
+Dexamethasone	interacts	Albumin
+ACE	interacts	EGFR
+CYP2C9	treats	Diabetes mellitus
+Tamoxifen	binds	Hemoglobin
+Albumin	binds	BRCA1
+ACE	interacts	Cisplatin
+Aspirin	treats	VEGF receptor
+Metformin	interacts	Hydroxychloroquine
+CYP2C9	associates	Headache
+APP	treats	Metformin
+INS	treats	Alzheimer's disease
+Tamoxifen	binds	Metformin
+Aspirin	treats	Tamoxifen
+HTT	treats	Metformin
+APP	associates	HIV infection
+Hydroxychloroquine	treats	Metformin
+Dexamethasone	associates	Cisplatin
+Paracetamol	interacts	Asthma
+CYP2C9	treats	Cisplatin
+Atorvastatin	treats	ACE
+VEGFA	interacts	Atorvastatin
+Simvastatin	binds	Aspirin
+TP53	binds	Hydroxychloroquine
+CYP2C9	interacts	INS
+VEGFA	treats	Insulin receptor
+Ibuprofen	interacts	HTT
+Insulin receptor	associates	Alzheimer's disease
+EGFR	associates	Dexamethasone
+Simvastatin	interacts	Hydroxychloroquine
+Ibuprofen	treats	Insulin receptor
+VEGF receptor	interacts	Osteoarthritis
+TP53	associates	ACE
+EGFR	treats	TP53
+Paracetamol	binds	VEGFA
+Ibuprofen	interacts	Paracetamol
+VEGFA	interacts	Tamoxifen
+Dexamethasone	binds	VEGF receptor
+Paracetamol	interacts	Cisplatin
+Albumin	treats	HTT
+EGFR	associates	Huntington's disease
+EGFR	treats	Simvastatin
+VEGFA	interacts	APP
+CYP2C9	treats	INS
+Simvastatin	treats	Hypertension
+Paracetamol	associates	TP53
+APP	binds	Insulin receptor
+TNF	treats	Metformin
+VEGF receptor	interacts	Simvastatin
+ACE	interacts	Hemoglobin
+Dexamethasone	interacts	Headache
+Albumin	treats	VEGFA
+ACE	binds	HIV infection
+BRCA1	treats	Tuberculosis
+Insulin receptor	interacts	VEGFA
+Simvastatin	associates	Hydroxychloroquine
+Tamoxifen	binds	Breast cancer
+HTT	interacts	Tuberculosis
+Albumin	interacts	EGFR
+Hydroxychloroquine	treats	Alzheimer's disease
+HTT	interacts	Atorvastatin
+Metformin	associates	Breast cancer
+VEGF receptor	associates	Tamoxifen
+Insulin receptor	associates	Dexamethasone
+Hydroxychloroquine	binds	Atorvastatin
+VEGFA	binds	APP
+VEGFA	binds	Albumin
+EGFR protein	binds	INS
+Metformin	associates	Headache
+Paracetamol	interacts	Metformin
+Tamoxifen	associates	TNF
+TP53	interacts	Cisplatin
+VEGF receptor	associates	Huntington's disease
+Insulin receptor	associates	Paracetamol
+VEGFA	treats	Atorvastatin
+Hemoglobin	associates	Osteoarthritis
+Metformin	treats	TP53
+Hemoglobin	interacts	Osteoarthritis
+VEGFA	interacts	Alzheimer's disease
+EGFR protein	interacts	Aspirin
+Albumin	interacts	HIV infection
+INS	interacts	Tuberculosis
+Hemoglobin	interacts	Osteoarthritis
+Hydroxychloroquine	treats	Ibuprofen
+Atorvastatin	interacts	Huntington's disease
+Paracetamol	binds	Hypertension
+Atorvastatin	associates	Albumin
+HTT	interacts	Breast cancer
+CYP2C9	interacts	Hydroxychloroquine
+Tamoxifen	treats	Metformin
+Dexamethasone	binds	Ibuprofen
+Aspirin	treats	VEGFA
+Hemoglobin	associates	Osteoarthritis
+HTT	interacts	TNF
+Cisplatin	binds	TNF
+Dexamethasone	associates	Breast cancer
+Hydroxychloroquine	associates	Aspirin
+Cisplatin	treats	CYP2C9
+Atorvastatin	interacts	Hypertension
+Hemoglobin	binds	Headache
+Metformin	binds	Hypertension
+HTT	binds	VEGF receptor
+Paracetamol	interacts	Breast cancer
+Atorvastatin	interacts	Hydroxychloroquine
+CYP2C9	interacts	Headache
+Insulin receptor	treats	Headache
+Simvastatin	interacts	Headache
+APP	interacts	CYP2C9
+EGFR protein	interacts	Atorvastatin
+Dexamethasone	binds	BRCA1
+Atorvastatin	associates	INS
+Atorvastatin	associates	Simvastatin
+BRCA1	treats	CYP2C9
+TNF	interacts	Alzheimer's disease
+EGFR	treats	Cisplatin
+Hydroxychloroquine	associates	Insulin receptor
+VEGFA	interacts	Tuberculosis
+Metformin	treats	Atorvastatin
+Dexamethasone	associates	Paracetamol
+EGFR protein	associates	Osteoarthritis
+BRCA1	associates	HTT
+CYP2C9	binds	Hemoglobin
+EGFR	treats	Cisplatin
+CYP2C9	binds	EGFR
+Tamoxifen	interacts	Diabetes mellitus
+Dexamethasone	associates	Breast cancer
+Metformin	binds	Hemoglobin
+TNF	binds	APP
+Aspirin	binds	Tuberculosis
+BRCA1	interacts	ACE
+ACE	associates	CYP2C9
+Atorvastatin	treats	Hydroxychloroquine
+Aspirin	associates	ACE
+APP	binds	Metformin
+Paracetamol	treats	Headache
+EGFR	binds	Breast cancer
+Simvastatin	treats	Metformin
+VEGF receptor	treats	EGFR protein
+Albumin	binds	Alzheimer's disease
+EGFR	treats	VEGF receptor
+EGFR protein	treats	TP53
+INS	associates	Aspirin
+Insulin receptor	associates	Hydroxychloroquine
+TP53	associates	Albumin
+APP	interacts	TNF
+EGFR protein	interacts	INS
+Ibuprofen	treats	Simvastatin
+Hydroxychloroquine	interacts	Breast cancer
+Ibuprofen	associates	Hemoglobin
+BRCA1	binds	Breast cancer
+HTT	treats	Hemoglobin
+Insulin receptor	interacts	Cisplatin
+CYP2C9	interacts	VEGFA
+EGFR	interacts	VEGFA
+Paracetamol	binds	INS
+Tamoxifen	interacts	Metformin
+VEGFA	treats	Hydroxychloroquine
+INS	associates	EGFR protein
+TNF	interacts	ACE
+Dexamethasone	associates	BRCA1
+VEGFA	binds	HTT
+INS	treats	Hydroxychloroquine
+Simvastatin	interacts	Asthma
+Metformin	treats	Dexamethasone
+Metformin	treats	Breast cancer
+Hydroxychloroquine	treats	Insulin receptor
+ACE	interacts	Cisplatin
+VEGF receptor	interacts	EGFR
+EGFR protein	interacts	Breast cancer
+CYP2C9	associates	Alzheimer's disease
+ACE	treats	Aspirin
+Atorvastatin	interacts	Asthma
+INS	treats	Alzheimer's disease
+BRCA1	binds	HIV infection
+VEGFA	associates	Cisplatin
+VEGF receptor	interacts	TP53
+TNF	interacts	Ibuprofen
+INS	binds	APP
+EGFR protein	associates	TNF
+Simvastatin	interacts	Dexamethasone
+VEGFA	associates	Tamoxifen
+Paracetamol	binds	Alzheimer's disease
+Albumin	treats	Ibuprofen
+INS	interacts	Osteoarthritis
+TP53	treats	BRCA1
+ACE	interacts	CYP2C9
+Atorvastatin	treats	Cisplatin
+Dexamethasone	binds	Asthma
+Hemoglobin	interacts	HIV infection
+Simvastatin	interacts	Insulin receptor
+Tamoxifen	treats	Hypertension
+APP	associates	Simvastatin
+Tamoxifen	interacts	Asthma
+Ibuprofen	interacts	Osteoarthritis
+VEGF receptor	interacts	Osteoarthritis
+Ibuprofen	treats	Metformin
+Albumin	binds	Ibuprofen
+EGFR protein	treats	Dexamethasone
+Simvastatin	interacts	Headache
+CYP2C9	binds	Cisplatin
+INS	treats	Tuberculosis
+Paracetamol	associates	CYP2C9
+Cisplatin	treats	Huntington's disease
+VEGF receptor	associates	Diabetes mellitus
+Albumin	associates	Paracetamol
+Simvastatin	treats	Paracetamol
+Hemoglobin	interacts	VEGFA
+Simvastatin	binds	ACE
+Aspirin	binds	CYP2C9
+Ibuprofen	associates	VEGF receptor
+APP	associates	INS
+VEGF receptor	associates	Headache
+HTT	binds	CYP2C9
+Ibuprofen	interacts	Diabetes mellitus
